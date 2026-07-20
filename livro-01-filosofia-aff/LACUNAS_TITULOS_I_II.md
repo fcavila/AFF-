@@ -14,26 +14,31 @@ Uma lista de títulos, um resumo ou a afirmação de que um artigo foi redigido 
 - Artigo 14º — Alocação de Capital.
 - Artigo 20º — Reinvestimento de Dividendos.
 
+### Textos reconstruídos — pendentes de aprovação
+
+- Artigos 7º a 13º.
+- Artigos 15º a 19º.
+
+Os originais desses doze artigos não foram localizados após buscas documentais registradas para os [Artigos 7º a 13º](titulo-01-identidade-fundamentos/BUSCA_DOCUMENTAL_ARTIGOS_07_13.md) e os [Artigos 15º a 19º](titulo-01-identidade-fundamentos/BUSCA_DOCUMENTAL_ARTIGOS_15_19.md). As reconstruções estão identificadas individualmente e não devem ser confundidas com transcrições ou consolidações.
+
 ### Lacunas documentais prioritárias
 
-1. **Aprovar ou ajustar as convenções editoriais:** o escopo da Carta Magna, a distinção entre Patrimônio Familiar e Carteira Permanente AFF, a proveniência e os identificadores foram formalizados, mas ainda dependem do editor-chefe.
-2. **Recuperar os textos declarados como existentes:** artigos 7º a 13º. A versão 0.3 confirma seus títulos, mas não contém o corpo dos artigos.
-3. **Recuperar ou localizar os demais artigos da Carta Magna:** artigos 15º a 19º e 21º a 40º.
-4. **Confirmar a versão aprovada dos artigos 1º a 6º:** os textos canônicos atuais são consolidações editoriais de versões iniciais, e não transcrições de uma versão aprovada posterior.
-5. **Confirmar o status editorial do “Duplo Motor da Renda Passiva AFF”:** o conceito foi preservado no Artigo 20º, mas requer aprovação expressa como termo oficial.
-6. **Aprovar a numeração:** foi proposta a série `AFF-CM-NNN` para a Carta Magna e mantida a sequência histórica a partir do Artigo 3º. Os artigos 1º e 2º permanecem com princípios operacionais sem número.
-7. **Completar referências primárias:** os artigos 1º a 6º e 14º ainda carecem de bibliografia formal e classificação de evidências.
-8. **Confirmar o vínculo entre Carta Magna e livro:** a convenção atual considera a Carta Magna como o Título I completo; falta decidir se também haverá documento normativo autônomo derivado da mesma fonte.
+1. **Aprovar ou ajustar as reconstruções:** artigos 7º a 13º e 15º a 19º, com suas normas `AFF-CM-005` a `AFF-CM-011` e `AFF-CM-013` a `AFF-CM-017`.
+2. **Recuperar ou localizar os demais artigos da Carta Magna:** artigos 21º a 40º.
+3. **Confirmar a versão aprovada dos artigos 1º a 6º:** os textos canônicos atuais são consolidações editoriais de versões iniciais, e não transcrições de uma versão aprovada posterior.
+4. **Confirmar o status editorial do “Duplo Motor da Renda Passiva AFF”:** o conceito foi preservado no Artigo 20º, mas requer aprovação expressa como termo oficial.
+5. **Completar referências primárias:** os artigos 1º a 6º e 14º ainda carecem de bibliografia formal e classificação de evidências.
+6. **Formalizar o Sistema de Classificação AFF:** a escala comum atualmente é transitória e deverá ser confirmada, substituída ou ampliada pelo Artigo 37º.
+
+As convenções editoriais e normativas, incluindo estrutura, escopo patrimonial, proveniência, estados editoriais, precedência, identificadores, hierarquia normativa e níveis de evidência, foram aprovadas em 20 de julho de 2026.
 
 ### Ordem recomendada para suprimento
 
-1. aprovar as convenções de estrutura, escopo e identificação;
+1. aprovar ou ajustar as reconstruções dos artigos 7º a 13º e 15º a 19º;
 2. localizar arquivos integrais dos artigos já considerados concluídos;
-3. consolidar artigos 7º a 13º;
-4. consolidar artigos 15º a 19º;
-5. consolidar artigos 21º a 34º;
-6. concluir os artigos institucionais 35º a 40º;
-7. executar revisão bibliográfica e terminológica única em toda a Carta Magna.
+3. recuperar ou reconstruir os artigos 21º a 34º;
+4. concluir os artigos institucionais 35º a 40º;
+5. executar revisão bibliográfica e terminológica única em toda a Carta Magna.
 
 ## TÍTULO II — Do Modelo Mental do Investidor
 
@@ -58,14 +63,14 @@ Os originais desses três textos não foram localizados após [busca documental 
 ### Lacunas documentais prioritárias
 
 1. **Aprovar ou ajustar as reconstruções:** preâmbulo e Artigos 1º e 2º, inclusive a definição própria de pensamento de terceiro nível AFF.
-2. **Bloco I concluído:** executar futuramente uma revisão integrada dos Artigos 1º a 6º após aprovação das reconstruções dos Artigos 1º e 2º.
+2. **Redação integral do Bloco I disponível:** a aprovação editorial do bloco permanece incompleta enquanto preâmbulo e Artigos 1º e 2º estiverem em revisão; depois de aprovados, deverá ser executada revisão integrada dos Artigos 1º a 6º.
 3. **Redigir os Blocos II a V:** artigos 7º a 30º.
-4. **Aprovar as normas do modelo mental:** a série foi padronizada provisoriamente como `AFF-MM-001` a `AFF-MM-006`, distinta da série `AFF-CM-NNN` da Carta Magna.
+4. **Aprovar o conteúdo normativo pendente:** identificadores e hierarquia foram aprovados; permanecem pendentes de aprovação as normas contidas nas reconstruções dos Artigos 1º e 2º e nos textos ainda não aprovados.
 5. **Verificar referências pendentes:** ampliar a revisão dos estudos empíricos citados pelo livro-base sobre previsibilidade e dividendos.
 
 ### Próxima redação autorizada pela estrutura aprovada
 
-A busca pelos textos ausentes foi concluída, as reconstruções do preâmbulo e dos artigos 1º e 2º foram preparadas e os Artigos 5º e 6º foram aprovados. Encerrado o Bloco I, a próxima redação será:
+A busca pelos textos ausentes foi concluída, as reconstruções do preâmbulo e dos artigos 1º e 2º foram preparadas e os Artigos 5º e 6º foram aprovados. Com a redação integral do Bloco I disponível, mas ainda sujeita às aprovações indicadas, a próxima redação será:
 
 > **Artigo 7º — Do Capital como Recurso Escasso.**
 

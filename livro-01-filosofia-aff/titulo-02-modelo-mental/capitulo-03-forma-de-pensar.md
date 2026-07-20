@@ -993,7 +993,7 @@ O investidor não controla quais choques ocorrerão, mas controla parte importan
 
 # Artigo 5º — Do Custo de Estar Errado
 
-> **Proveniência:** redação editorial inédita, preparada em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico e permanece pendente de aprovação do editor-chefe.
+> **Proveniência:** redação editorial inédita, preparada e aprovada pelo editor-chefe em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico.
 
 **O Analista de Finanças Familiares deverá avaliar toda decisão pela combinação entre probabilidade de erro, magnitude do dano, possibilidade de recuperação, correlação com outras exposições, prazo de materialização e efeito sobre os objetivos da família. Estar errado será admissível; tornar um erro isolado capaz de comprometer a continuidade patrimonial, a renda necessária ou uma obrigação prioritária será inadmissível.**
 
@@ -1241,7 +1241,7 @@ O investidor maduro não pergunta apenas quantas vezes estará certo. Pergunta o
 
 # Artigo 6º — Do Círculo de Competência
 
-> **Proveniência:** redação editorial inédita, preparada em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico e permanece pendente de aprovação do editor-chefe.
+> **Proveniência:** redação editorial inédita, preparada e aprovada pelo editor-chefe em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico.
 
 **O Analista de Finanças Familiares somente aprovará decisões cuja tese, mecanismos econômicos, riscos materiais e limites de conhecimento possa explicar e examinar com evidências proporcionais ao impacto patrimonial. O tamanho do círculo de competência não constituirá objetivo em si; serão obrigatórios o reconhecimento de suas fronteiras, a recusa da falsa familiaridade e o redimensionamento ou a abstenção quando a compreensão for insuficiente.**
 

@@ -1,12 +1,12 @@
 # LIVRO I — FILOSOFIA DO ANALISTA DE FINANÇAS FAMILIARES
 
-> **Status editorial:** primeira versão em desenvolvimento. A presença de um texto neste índice indica consolidação documental, não aprovação definitiva pelo editor-chefe.
+> **Estado editorial:** `AFF-L1-2026.07.20-R1`, versão em desenvolvimento regida pelas convenções aprovadas. A presença de um texto neste índice indica incorporação documental; o estado individual de aprovação é informado em cada item.
 
 ## TÍTULO I — DA IDENTIDADE E DOS FUNDAMENTOS
 
 - [Preâmbulo](titulo-01-identidade-fundamentos/00-preambulo.md) — consolidado.
 - [Capítulo I — A Missão do Analista de Finanças Familiares](titulo-01-identidade-fundamentos/capitulo-01-missao.md) — Artigo 1º consolidado.
-- [Capítulo II — Dos Objetivos Estratégicos](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md) — consolidações editoriais dos artigos 2º a 6º, 14º e 20º.
+- [Capítulo II — Dos Objetivos Estratégicos](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md) — consolidações editoriais dos artigos 2º a 6º, 14º e 20º; reconstruções dos artigos 7º a 13º e 15º a 19º em revisão.
 
 ### Mapa documental da Carta Magna
 
@@ -18,19 +18,19 @@
 | 4º | Construção de Renda Passiva Crescente | Consolidado. |
 | 5º | Geração de Valor Econômico | Consolidado. |
 | 6º | Qualidade Empresarial | Consolidado. |
-| 7º | Mentalidade de Sócio | Existência declarada; texto integral não localizado. |
-| 8º | Independência Intelectual | Existência declarada; texto integral não localizado. |
-| 9º | Horizonte Temporal | Existência declarada; texto integral não localizado. |
-| 10º | Disciplina e Consistência | Existência declarada; texto integral não localizado. |
-| 11º | Margem de Segurança | Existência declarada; texto integral não localizado. |
-| 12º | Relação entre Risco e Retorno | Existência declarada; texto integral não localizado. |
-| 13º | Qualidade dos Dividendos | Existência declarada; texto integral não localizado. |
+| 7º | [Mentalidade de Sócio](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-7º--da-mentalidade-de-sócio) | Reconstrução editorial em revisão. |
+| 8º | [Independência Intelectual](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-8º--da-independência-intelectual) | Reconstrução editorial em revisão. |
+| 9º | [Horizonte Temporal](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-9º--do-horizonte-temporal) | Reconstrução editorial em revisão. |
+| 10º | [Disciplina e Consistência](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-10º--da-disciplina-e-da-consistência) | Reconstrução editorial em revisão. |
+| 11º | [Margem de Segurança](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-11º--da-margem-de-segurança) | Reconstrução editorial em revisão. |
+| 12º | [Relação entre Risco e Retorno](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-12º--da-relação-entre-risco-e-retorno) | Reconstrução editorial em revisão. |
+| 13º | [Qualidade dos Dividendos](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-13º--da-qualidade-dos-dividendos) | Reconstrução editorial em revisão. |
 | 14º | Alocação de Capital | Consolidado. |
-| 15º | Alocação Patrimonial | Texto integral não localizado. |
-| 16º | Qualidade da Administração | Texto integral não localizado. |
-| 17º | Vantagem Competitiva | Texto integral não localizado. |
-| 18º | Governança | Texto integral não localizado. |
-| 19º | Geração de Caixa | Texto integral não localizado. |
+| 15º | [Alocação Patrimonial](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-15º--da-alocação-patrimonial) | Reconstrução editorial em revisão. |
+| 16º | [Qualidade da Administração](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-16º--da-qualidade-da-administração) | Reconstrução editorial em revisão. |
+| 17º | [Vantagem Competitiva](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-17º--da-vantagem-competitiva) | Reconstrução editorial em revisão. |
+| 18º | [Governança](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-18º--da-governança) | Reconstrução editorial em revisão. |
+| 19º | [Geração de Caixa](titulo-01-identidade-fundamentos/capitulo-02-carta-magna.md#artigo-19º--da-geração-de-caixa) | Reconstrução editorial em revisão. |
 | 20º | Reinvestimento de Dividendos | Consolidado. |
 | 21º | Crescimento Sustentável | Texto integral não localizado. |
 | 22º | Análise Baseada em Evidências | Texto integral não localizado. |
@@ -71,4 +71,6 @@
 - [Lacunas dos Títulos I e II](LACUNAS_TITULOS_I_II.md)
 - [Convenções editoriais](CONVENCOES_EDITORIAIS.md)
 - [Busca documental do preâmbulo e dos Artigos 1º e 2º](titulo-02-modelo-mental/BUSCA_DOCUMENTAL_PREAMBULO_ARTIGOS_01_02.md)
+- [Busca documental dos Artigos 7º a 13º da Carta Magna](titulo-01-identidade-fundamentos/BUSCA_DOCUMENTAL_ARTIGOS_07_13.md)
+- [Busca documental dos Artigos 15º a 19º da Carta Magna](titulo-01-identidade-fundamentos/BUSCA_DOCUMENTAL_ARTIGOS_15_19.md)
 - [Fontes históricas recuperadas](../legacy/fontes-recuperadas/README.md)
