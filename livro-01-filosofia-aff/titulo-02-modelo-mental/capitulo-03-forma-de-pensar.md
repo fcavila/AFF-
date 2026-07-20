@@ -988,3 +988,251 @@ O investidor não controla quais choques ocorrerão, mas controla parte importan
 - TALEB, Nassim Nicholas et al. “The Precautionary Principle (with Application to the Genetic Modification of Organisms)”. 2014. [Texto no arXiv](https://arxiv.org/abs/1410.5787).
 - TALEB, Nassim Nicholas; DOUADY, Raphael. “Mathematical Definition, Mapping, and Detection of (Anti)Fragility”. 2012. [Texto no arXiv](https://arxiv.org/abs/1208.1189).
 - TETLOCK, Philip E.; GARDNER, Dan. *Superforecasting: The Art and Science of Prediction*. New York: Crown, 2015.
+
+---
+
+# Artigo 5º — Do Custo de Estar Errado
+
+> **Proveniência:** redação editorial inédita, preparada em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico e permanece pendente de aprovação do editor-chefe.
+
+**O Analista de Finanças Familiares deverá avaliar toda decisão pela combinação entre probabilidade de erro, magnitude do dano, possibilidade de recuperação, correlação com outras exposições, prazo de materialização e efeito sobre os objetivos da família. Estar errado será admissível; tornar um erro isolado capaz de comprometer a continuidade patrimonial, a renda necessária ou uma obrigação prioritária será inadmissível.**
+
+## Comentário Técnico
+
+Investir exige decidir antes de conhecer o resultado. Por isso, nenhum método sério pode prometer ausência de erros. Empresas excelentes se deterioram, estimativas razoáveis falham, preços continuam caindo depois de uma compra prudente e oportunidades rejeitadas podem produzir retornos extraordinários.
+
+O objetivo do AFF não é eliminar o erro, mas impedir que seu custo seja desproporcional. Essa distinção desloca a pergunta de “qual é a chance de eu estar certo?” para uma análise mais completa:
+
+1. o que acontece se eu estiver errado;
+2. quanto posso perder;
+3. por quanto tempo o capital ficará comprometido;
+4. quais outras posições poderão falhar pelo mesmo motivo;
+5. se a família continuará capaz de cumprir suas obrigações;
+6. se haverá condições financeiras e psicológicas para corrigir a decisão.
+
+Uma tese com alta probabilidade de acerto pode ser ruim quando o ganho potencial é pequeno e a perda possível é irreversível. Uma tese com probabilidade moderada pode ser aceitável quando a perda é limitada, o ganho é relevante e o patrimônio suporta o cenário adverso. Frequência de acerto, isoladamente, não mede qualidade decisória.
+
+## As Dimensões do Custo do Erro
+
+O custo de estar errado possui, no mínimo, seis dimensões.
+
+### Probabilidade
+
+Representa o grau de plausibilidade atribuído ao cenário adverso. Probabilidades deverão seguir os critérios do Artigo 3º e não serão tratadas como precisão inexistente.
+
+### Magnitude
+
+É a perda econômica possível, considerada em valor absoluto, percentual da posição e percentual do patrimônio familiar. Deverá incluir perdas indiretas, tributos, custos de transação, passivos, garantias e eventual interrupção de renda.
+
+### Recuperabilidade
+
+Duas perdas percentualmente iguais podem ter consequências diferentes. Uma queda de preço sem deterioração pode ser recuperável; fraude, diluição destrutiva, insolvência ou perda estrutural de competitividade constituem mecanismos plausíveis de perda permanente. O caráter permanente muitas vezes somente será confirmado depois; a decisão deverá apoiar-se nos mecanismos e sinais disponíveis, não em certeza retrospectiva.
+
+### Tempo
+
+Capital imobilizado em tese deteriorada possui custo de oportunidade. O tempo necessário para reconhecer, corrigir e recuperar um erro importa, especialmente quando a família depende de renda ou possui objetivos com prazo definido.
+
+### Dependência
+
+O mesmo prejuízo terá efeitos distintos para famílias diferentes. Uma posição que financia despesa essencial, serve de reserva para obrigação próxima ou concentra a renda familiar carrega custo potencial superior ao indicado por seu peso patrimonial.
+
+### Propagação
+
+Erros raramente permanecem isolados quando posições compartilham setor, controlador, indexador, moeda, regulação, commodity, taxa de juros ou fonte de renda. O custo deverá ser estimado para o conjunto das exposições sujeitas à mesma causa.
+
+## Perda e Recuperação
+
+Perdas percentuais são assimétricas porque incidem sobre bases diferentes. Sem considerar aportes, retiradas, impostos ou tempo:
+
+| Perda do capital | Ganho necessário sobre o saldo para retornar ao valor inicial |
+|---:|---:|
+| 10% | 11,1% |
+| 20% | 25,0% |
+| 33,3% | 50,0% |
+| 50% | 100,0% |
+| 75% | 300,0% |
+| 90% | 900,0% |
+
+Essa aritmética não justifica vender automaticamente após qualquer queda. Cotação e valor econômico não são equivalentes. Ela demonstra por que perda permanente elevada destrói capacidade de composição e por que o tamanho da posição deve ser definido antes do cenário adverso.
+
+Quanto maior a perda, mais difícil a recuperação matemática; quanto mais longa a recuperação, maior o custo de oportunidade; quanto mais a família depender do capital, menor sua tolerância a trajetórias adversas.
+
+## Estar Errado, Perder Dinheiro e Decidir Mal
+
+Os três eventos não são idênticos.
+
+- **Decisão bem formulada com resultado adverso:** as premissas eram razoáveis, o processo foi seguido e um cenário de baixa probabilidade ocorreu.
+- **Decisão mal formulada com resultado favorável:** a tese ignorava riscos, mas sorte ou ambiente favorável produziram ganho.
+- **Erro de tese:** o mecanismo econômico central estava incorreto ou deixou de existir.
+- **Erro de preço:** a empresa era boa, mas o preço exigia resultados incompatíveis com a realidade.
+- **Erro de dimensionamento:** a tese podia ser válida, mas a posição era grande demais para sua incerteza e impacto.
+- **Erro de implementação:** prazo, liquidez, tributos, custos, instrumento ou execução alteraram o resultado.
+
+O AFF avaliará processo e resultado. Um prejuízo não prova, por si só, que a decisão foi irracional; um lucro não absolve processo imprudente. Entretanto, invocar “bom processo” repetidamente sem revisar calibração, taxas-base e resultados será forma de autoengano.
+
+## Erros de Ação e de Omissão
+
+Comprar uma empresa inadequada é erro de ação. Rejeitar uma empresa adequada, vender cedo demais ou manter excesso de caixa por medo pode ser erro de omissão. Ambos possuem custo, mas sua visibilidade é diferente: perdas realizadas aparecem nos extratos; ganhos não capturados não aparecem como débito.
+
+Essa diferença favorece conservadorismo aparente. Evitar toda perda exige evitar decisões incertas e, portanto, parte relevante dos retornos. Howard Marks distingue controle de risco de simples evasão do risco: o primeiro seleciona e dimensiona riscos compensados; a segunda pode produzir insuficiência de retorno.
+
+O AFF não tentará capturar toda oportunidade. O custo de omissão somente será imputado quando a oportunidade estava dentro do círculo de competência, atendia aos critérios vigentes e foi rejeitada por falha identificável de processo. Retornos extraordinários percebidos apenas depois do fato não serão tratados como prova de erro.
+
+## Frequência de Acerto e Assimetria
+
+Uma estratégia pode acertar muitas vezes e ainda destruir patrimônio se suas perdas raras forem grandes. Outra pode errar com frequência e produzir resultado positivo se limitar perdas e preservar ganhos relevantes. O valor esperado depende da combinação entre probabilidades e payoffs, não da taxa de acerto isolada.
+
+O AFF deverá procurar assimetria favorável, mas não presumirá que perda máxima estimada seja limite garantido. Liquidez pode desaparecer, correlações podem aumentar e eventos podem ultrapassar cenários históricos.
+
+Também não confundirá assimetria da empresa com assimetria da posição. Uma oportunidade aparentemente favorável pode tornar-se patrimonialmente assimétrica contra a família quando financiada por dívida, concentrada ou vinculada a obrigação de curto prazo.
+
+## Dimensionamento como Decisão sobre o Erro
+
+O tamanho da posição limita a contribuição potencial de uma tese para a perda familiar. Convicção influencia o dimensionamento, mas não o determina sozinha. Também deverão ser considerados:
+
+- qualidade e independência das evidências;
+- amplitude dos resultados possíveis;
+- perda permanente estimada em cenário adverso;
+- liquidez do ativo;
+- correlação com exposições existentes;
+- dependência da renda distribuída;
+- capacidade de aporte ou necessidade de retirada;
+- possibilidade de fraude, insolvência ou mudança de regime;
+- custo e viabilidade de corrigir a decisão.
+
+O critério de Kelly demonstra, em ambiente teórico, que probabilidade, payoff e tamanho da aposta precisam ser analisados em conjunto. Sua aplicação direta a investimentos reais é limitada por probabilidades incertas, distribuições instáveis, correlações variáveis e objetivos familiares distintos da maximização matemática da riqueza. O AFF aproveitará o princípio de dimensionar pela vantagem e pelo risco, mas não adotará Kelly integral como regra automática.
+
+Quando a incerteza for elevada, o tamanho deverá diminuir. Quando a perda não puder ser estimada com razoável segurança, prevalecerão os limites de exposição e robustez do Artigo 4º.
+
+## O Custo do Erro em Empresas de Dividendos
+
+Dividendos podem criar falsa sensação de proteção. Receber distribuições durante alguns anos não compensa necessariamente deterioração do negócio, endividamento crescente ou perda permanente do capital.
+
+O erro poderá aparecer como:
+
+- confundir yield elevado com margem de segurança;
+- projetar pagamento extraordinário como recorrente;
+- ignorar que payout elevado reduz reinvestimento necessário;
+- aceitar dividendos financiados por dívida ou venda de ativos;
+- concentrar a renda familiar em poucas empresas ou em um único fator de risco;
+- manter tese rompida para evitar reconhecer perda;
+- vender empresa saudável apenas porque a cotação caiu.
+
+O custo deverá considerar capital e renda conjuntamente. Corte de dividendos e queda estrutural do valor podem ocorrer ao mesmo tempo, justamente quando a família mais necessita de liquidez.
+
+## Origem e Fundamentação
+
+Howard Marks sustenta que assumir risco é indispensável para buscar retorno, mas que risco deve ser compreendido, analisável, diversificável e adequadamente remunerado. Em *Fewer Losers, or More Winners?*, contrasta estratégias defensivas, centradas em reduzir grandes erros, com estratégias voltadas a capturar grandes acertos.
+
+Mauboussin e Callahan enfatizam que o resultado depende de probabilidades e payoffs: quantas vezes se acerta importa menos do que a relação entre o ganho nos acertos e a perda nos erros. Kelly formalizou a ligação entre vantagem, odds e fração do capital em apostas repetidas sob premissas específicas.
+
+Kahneman e Tversky demonstraram que pessoas avaliam ganhos e perdas de modo assimétrico. Shefrin e Statman desenvolveram evidência e explicação específica para o efeito disposição — a tendência de realizar ganhos cedo e manter perdas por mais tempo. Esses resultados ajudam a explicar por que o investidor pode preservar tese deteriorada ou aplicar prudência de modo inconsistente, mas não permitem diagnosticar automaticamente toda decisão de manutenção como viés.
+
+A aritmética da recuperação de perdas e a identidade matemática do valor esperado, sob probabilidades e payoffs dados, recebem **Nível A**. A estimação desses parâmetros em investimentos reais e a utilidade das práticas de dimensionamento e controle de risco recebem **Nível B** ou **Nível C**, conforme a qualidade dos dados, a estabilidade do contexto e as limitações do modelo. Os limites patrimoniais e a Norma AFF-MM-005 constituem escolhas normativas de **Nível D**.
+
+## Comparação entre Escolas de Pensamento
+
+### Investimento defensivo
+
+Prioriza margem de segurança, preservação e redução de perdas graves. Sua força está em proteger a composição; seu risco é tornar-se aversão indiscriminada a oportunidades.
+
+### Estratégias concentradas
+
+Buscam capturar o valor dos melhores acertos. Podem ser coerentes quando conhecimento, vantagem e tolerância são elevados, mas ampliam o custo de erro de tese, governança ou regime.
+
+### Abordagens quantitativas
+
+Relacionam probabilidades, payoffs, correlações e tamanho. Produzem disciplina, mas são sensíveis a erro de modelo e parâmetros instáveis.
+
+### Abordagem AFF
+
+Não maximiza taxa de acerto nem evita toda perda. Procura preservar a continuidade patrimonial, permitindo riscos compensados cujo erro possa ser absorvido sem comprometer objetivos familiares prioritários.
+
+## Limitações e Riscos de Interpretação
+
+Estimar o custo do erro pode criar falsa precisão. Cenários não capturam todas as formas de fraude, intervenção, iliquidez ou correlação. Por isso, números deverão ser acompanhados por análise de mecanismos e limites conservadores.
+
+Outra limitação é o viés retrospectivo. Depois do resultado, sinais ambíguos parecem óbvios e oportunidades perdidas parecem inevitáveis. A avaliação deverá usar o registro disponível no momento da decisão.
+
+Há ainda risco de transformar preservação em imobilidade. Caixa excessivo, diversificação sem critério e posições irrelevantes também possuem custo. O AFF aceitará perdas pequenas, omissões deliberadas e períodos de desempenho inferior quando forem consequência coerente de limites patrimoniais — mas revisará processos que produzam insuficiência persistente de retorno.
+
+## Exemplo Prático ou Estudo de Caso Conceitual
+
+Considere duas oportunidades de investimento. Os percentuais seguintes são exclusivamente ilustrativos; uma decisão real exigiria cenários, sensibilidades e dados próprios.
+
+A empresa Alfa possui negócio estável, dívida moderada e preço razoável. Para fins do exemplo, o analista atribui 75% de probabilidade à realização satisfatória da tese e estima cenário adverso de perda permanente de 20%, mas a família já recebe 35% de sua renda de empresas expostas ao mesmo fator regulatório. Uma posição proposta de 15% contribuiria com 3 pontos percentuais de perda patrimonial nesse cenário. As posições correlacionadas existentes acrescentariam, pela estimativa do analista, outros 6 pontos percentuais: o choque comum consumiria 9 pontos do orçamento de perda, além de reduzir a renda.
+
+A empresa Beta possui operação mais volátil e menor previsibilidade, porém balanço líquido, ausência de derivativos, garantias ou obrigações além do capital investido e exposição a fatores que, segundo a análise disponível, não compartilham causa material com o risco regulatório de Alfa. O analista atribui 45% de probabilidade à realização satisfatória da tese e estima perda permanente de 50% no cenário adverso. Limitada a 2% do patrimônio, Beta contribuiria com 1 ponto percentual para a perda. Essa independência é hipótese sujeita a teste, não propriedade presumida da empresa.
+
+Escolher apenas pela probabilidade favoreceria Alfa. Examinar o custo completo pode recomendar posição menor em Alfa, admitir Beta como exposição independente — sem concluir que Beta seja superior como empresa — ou rejeitar ambas quando nenhuma compensar o risco. A conclusão dependerá das estimativas e de sua sensibilidade, mas o exemplo mostra que empresa aparentemente mais segura não produz necessariamente a menor contribuição para o custo patrimonial de erro.
+
+Se a família reduzir Alfa de 15% para 3%, sua contribuição individual estimada cairá de 3 para 0,6 ponto percentual, embora o choque agregado das posições existentes continue relevante. O dimensionamento não corrige uma empresa ruim nem elimina correlações, mas impede que uma análise falível receba exposição incompatível com o orçamento familiar.
+
+## Posição Oficial do AFF
+
+O AFF considera o erro inevitável e a ruína evitável em parte relevante por desenho patrimonial. A metodologia adotará os seguintes princípios:
+
+- decisões serão avaliadas por processo, probabilidade e impacto;
+- perda permanente terá prioridade sobre oscilação temporária;
+- tamanho da posição será tratado como instrumento primário de controle do erro;
+- exposições correlacionadas serão agregadas;
+- renda familiar e obrigações terão proteção superior a objetivos discricionários;
+- tese invalidada será revista sem compromisso com o preço de compra;
+- risco zero não será objetivo, pois pode produzir retorno insuficiente;
+- nenhum acerto anterior concederá licença para risco de ruína.
+
+## Critérios Operacionais
+
+Antes de aprovar ou ampliar uma posição, o AFF deverá responder:
+
+1. Quais hipóteses, se erradas, causam maior dano?
+2. Quais mecanismos indicam que a perda poderá ser temporária, recuperável ou permanente?
+3. Quanto a posição pode perder em valores absoluto, relativo e familiar?
+4. Que outras posições falhariam sob a mesma causa?
+5. A renda familiar sofreria simultaneamente?
+6. Existe obrigação capaz de forçar venda durante o cenário adverso?
+7. O ganho potencial compensa probabilidade, magnitude e duração da perda?
+8. O tamanho da posição reflete incerteza e qualidade da evidência?
+9. A decisão depende de dívida, liquidez contínua ou refinanciamento?
+10. Qual evidência invalidará a tese?
+11. A correção será possível sem comprometer objetivos prioritários?
+12. O medo de errar está produzindo omissão incompatível com os objetivos de retorno?
+13. O registro da decisão permite distinguir falha de processo de resultado adverso?
+14. O custo foi testado em conjunto com o orçamento de perda do Artigo 4º?
+
+### Protocolo provisório de avaliação do erro
+
+Para aplicação deste artigo:
+
+- **erro plausível** é aquele associado a mecanismo econômico, financeiro, operacional, regulatório, comportamental ou patrimonial identificável, sustentado por taxa-base, evidência, cenário ou fragilidade relevante; não exige probabilidade numérica e não inclui possibilidade remota sem nexo demonstrável;
+- **orçamento de perda familiar** é a perda agregada que o patrimônio pode absorver, em cenário adverso e considerando exposições correlacionadas, sem comprometer liquidez, solvência, renda essencial ou objetivos prioritários, conforme os critérios do Artigo 4º;
+- **obrigação familiar prioritária** compreende despesa essencial, dívida, compromisso legal ou objetivo patrimonial que, por necessidade, prazo ou impacto, não possa depender da recuperação incerta de ativos de risco.
+
+1. toda tese deverá registrar cenário adverso, mecanismos de perda e condições de invalidação antes da aprovação;
+2. a perda da posição será agregada às exposições sujeitas aos mesmos fatores de risco;
+3. tamanho e liquidez deverão permitir correção sem venda forçada de ativos destinados a objetivos prioritários;
+4. aumento de posição após queda exigirá nova avaliação de tese, preço, concentração e orçamento de perda; a redução do preço, isoladamente, não será fundamento suficiente;
+5. tese invalidada não será mantida apenas para recuperar o preço de compra ou preservar dividendos históricos;
+6. erro de omissão somente será registrado quando a oportunidade atendia aos critérios conhecidos à época e a rejeição decorrer de falha identificável do processo;
+7. cada revisão relevante classificará o resultado como falha de tese, preço, dimensionamento, implementação, premissa externa ou ocorrência adversa compatível com o processo;
+8. padrões recorrentes de erro deverão provocar revisão dos modelos, taxas-base, critérios ou limites, ainda que cada decisão isolada pareça defensável.
+9. um risco será considerado suficientemente compreendido para decisão somente quando seus principais mecanismos econômicos, fontes de exposição, fragilidades, limites da análise e caminhos de perda estiverem registrados; isso não pressupõe conhecer toda a distribuição de resultados;
+10. a compensação pelo risco deverá ser demonstrada pela relação documentada entre preço, faixa de valor, cenários de payoff e alternativas disponíveis, sem depender apenas de retorno histórico ou yield observado.
+
+## Norma Operacional AFF-MM-005
+
+> **Nenhuma posição poderá ser dimensionada de modo que um erro plausível, isoladamente ou em conjunto com exposições correlacionadas, ameace obrigação familiar prioritária, provoque venda forçada ou ultrapasse o orçamento de perda definido. Toda decisão deverá registrar mecanismos de perda, fontes de exposição, fragilidades, recuperabilidade, condições de invalidação, custo de oportunidade e limites da análise. A busca por proteção não autorizará risco zero como regra: somente serão assumidos riscos cuja compensação esteja documentada e cujo dano estimado seja absorvível pelo patrimônio familiar.**
+
+## Reflexão Final
+
+O investidor maduro não pergunta apenas quantas vezes estará certo. Pergunta o que sobreviverá quando estiver errado. O AFF não medirá prudência pela ausência de perdas, mas pela capacidade de aprender, corrigir e continuar compondo patrimônio sem sacrificar a segurança da família.
+
+## Referências
+
+- KAHNEMAN, Daniel; TVERSKY, Amos. “Prospect Theory: An Analysis of Decision under Risk”. *Econometrica*, v. 47, n. 2, p. 263–291, 1979. DOI: 10.2307/1914185.
+- KELLY JR., John L. “A New Interpretation of Information Rate”. *Bell System Technical Journal*, v. 35, n. 4, p. 917–926, 1956. DOI: 10.1002/j.1538-7305.1956.tb03809.x.
+- MARKS, Howard. “Fewer Losers, or More Winners?”. Oaktree Capital Management, 12 set. 2023. [Memorando](https://www.oaktreecapital.com/insights/memo/fewer-losers-or-more-winners).
+- MARKS, Howard. “The Indispensability of Risk”. Oaktree Capital Management, 17 abr. 2024. [Memorando](https://www.oaktreecapital.com/insights/memo/the-indispensability-of-risk).
+- MAUBOUSSIN, Michael J.; CALLAHAN, Dan. “Probabilities and Payoffs: The Practicalities and Psychology of Expected Value”. Morgan Stanley Investment Management, 19 fev. 2025. [Relatório](https://www.morganstanley.com/im/publication/insights/articles/article_probabilitiesandpayoffs.pdf).
+- SHEFRIN, Hersh; STATMAN, Meir. “The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence”. *The Journal of Finance*, v. 40, n. 3, p. 777–790, 1985. DOI: 10.1111/j.1540-6261.1985.tb05002.x.
+- TALEB, Nassim Nicholas. *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets*. 2. ed. New York: Random House, 2005.

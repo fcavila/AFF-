@@ -50,21 +50,21 @@ Uma lista de títulos, um resumo ou a afirmação de que um artigo foi redigido 
 
 Os originais desses três textos não foram localizados após [busca documental registrada](titulo-02-modelo-mental/BUSCA_DOCUMENTAL_PREAMBULO_ARTIGOS_01_02.md). As reconstruções estão identificadas no corpo do capítulo e não devem ser confundidas com transcrições.
 
+### Redação inédita — pendente de aprovação
+
+- Artigo 5º — Do Custo de Estar Errado.
+
 ### Lacunas documentais prioritárias
 
 1. **Aprovar ou ajustar as reconstruções:** preâmbulo e Artigos 1º e 2º, inclusive a definição própria de pensamento de terceiro nível AFF.
-2. **Concluir o Bloco I:** Artigo 5º — Do Custo de Estar Errado; Artigo 6º — Do Círculo de Competência.
+2. **Concluir o Bloco I:** aprovar ou ajustar o Artigo 5º — Do Custo de Estar Errado; redigir o Artigo 6º — Do Círculo de Competência.
 3. **Redigir os Blocos II a V:** artigos 7º a 30º.
-4. **Aprovar as normas do modelo mental:** a série foi padronizada provisoriamente como `AFF-MM-001` a `AFF-MM-004`, distinta da série `AFF-CM-NNN` da Carta Magna.
+4. **Aprovar as normas do modelo mental:** a série foi padronizada provisoriamente como `AFF-MM-001` a `AFF-MM-005`, distinta da série `AFF-CM-NNN` da Carta Magna.
 5. **Verificar referências pendentes:** ampliar a revisão dos estudos empíricos citados pelo livro-base sobre previsibilidade e dividendos.
 
 ### Próxima redação autorizada pela estrutura aprovada
 
-A busca pelos textos ausentes foi concluída, e as reconstruções do preâmbulo e dos artigos 1º e 2º foram preparadas. A continuidade redacional deverá começar por:
-
-> **Artigo 5º — Do Custo de Estar Errado.**
-
-Em seguida:
+A busca pelos textos ausentes foi concluída, as reconstruções do preâmbulo e dos artigos 1º e 2º foram preparadas e a minuta do Artigo 5º aguarda aprovação. A próxima redação será:
 
 > **Artigo 6º — Do Círculo de Competência.**
 
