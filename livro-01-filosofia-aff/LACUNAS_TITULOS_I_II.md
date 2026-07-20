@@ -42,20 +42,25 @@ Uma lista de títulos, um resumo ou a afirmação de que um artigo foi redigido 
 - Artigo 3º — Da Probabilidade versus Certeza.
 - Artigo 4º — Da Arte de Conviver com a Incerteza.
 
+### Textos reconstruídos — pendentes de aprovação
+
+- Preâmbulo do Capítulo III.
+- Artigo 1º — Do Pensamento de Primeiro e Segundo Nível.
+- Artigo 2º — Dos Modelos Mentais Multidisciplinares.
+
+Os originais desses três textos não foram localizados após [busca documental registrada](titulo-02-modelo-mental/BUSCA_DOCUMENTAL_PREAMBULO_ARTIGOS_01_02.md). As reconstruções estão identificadas no corpo do capítulo e não devem ser confundidas com transcrições.
+
 ### Lacunas documentais prioritárias
 
-1. **Preâmbulo do Capítulo III:** declarado como redigido, mas não localizado.
-2. **Artigo 1º — Do Pensamento de Primeiro e Segundo Nível:** declarado como redigido, mas não localizado. Não deverá ser reescrito antes de se esgotar a busca pelo original.
-3. **Artigo 2º — Dos Modelos Mentais Multidisciplinares:** declarado como redigido, mas não localizado. Também deverá ser recuperado antes de eventual reconstrução.
-4. **Concluir o Bloco I:** Artigo 5º — Do Custo de Estar Errado; Artigo 6º — Do Círculo de Competência.
-5. **Redigir os Blocos II a V:** artigos 7º a 30º.
-6. **Aprovar as normas do modelo mental:** a série foi padronizada provisoriamente como `AFF-MM-003` e `AFF-MM-004`, distinta da série `AFF-CM-NNN` da Carta Magna.
-7. **Verificar referências pendentes:** ampliar a revisão dos estudos empíricos citados pelo livro-base sobre previsibilidade e dividendos.
-8. **Desenvolver formalmente o pensamento de terceiro nível:** mencionado no histórico do projeto, mas ainda sem definição normativa aprovada.
+1. **Aprovar ou ajustar as reconstruções:** preâmbulo e Artigos 1º e 2º, inclusive a definição própria de pensamento de terceiro nível AFF.
+2. **Concluir o Bloco I:** Artigo 5º — Do Custo de Estar Errado; Artigo 6º — Do Círculo de Competência.
+3. **Redigir os Blocos II a V:** artigos 7º a 30º.
+4. **Aprovar as normas do modelo mental:** a série foi padronizada provisoriamente como `AFF-MM-001` a `AFF-MM-004`, distinta da série `AFF-CM-NNN` da Carta Magna.
+5. **Verificar referências pendentes:** ampliar a revisão dos estudos empíricos citados pelo livro-base sobre previsibilidade e dividendos.
 
 ### Próxima redação autorizada pela estrutura aprovada
 
-Depois de concluída a busca pelos textos ausentes do preâmbulo e dos artigos 1º e 2º, a continuidade redacional deverá começar por:
+A busca pelos textos ausentes foi concluída, e as reconstruções do preâmbulo e dos artigos 1º e 2º foram preparadas. A continuidade redacional deverá começar por:
 
 > **Artigo 5º — Do Custo de Estar Errado.**
 

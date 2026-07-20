@@ -23,6 +23,10 @@
 
 ### Capítulo III — A Forma de Pensar do Analista de Finanças Familiares
 
+- Concluída a busca documental pelos originais do preâmbulo e dos Artigos 1º e 2º, sem localização dos textos integrais.
+- Reconstruído o preâmbulo do Capítulo III, com proveniência explícita e aprovação editorial pendente.
+- Reconstruído o Artigo 1º — Do Pensamento de Primeiro e Segundo Nível, incluindo a formulação própria do pensamento de terceiro nível AFF e a norma provisória `AFF-MM-001`.
+- Reconstruído o Artigo 2º — Dos Modelos Mentais Multidisciplinares, com a norma provisória `AFF-MM-002`.
 - Adicionado o Artigo 3º — Da Probabilidade versus Certeza.
 - Adicionado o Artigo 4º — Da Arte de Conviver com a Incerteza.
 - Incluídas referências a Kahneman e Tversky, Knight, Graham, Howard Marks, Michael Mauboussin, Philip Tetlock, Annie Duke, Nassim Nicholas Taleb, Orleans Martins e Felipe Pontes.

@@ -2,10 +2,12 @@
 
 ## CAPÍTULO III — A FORMA DE PENSAR DO ANALISTA DE FINANÇAS FAMILIARES
 
+- [Preâmbulo do capítulo](capitulo-03-forma-de-pensar.md#preâmbulo-do-capítulo-iii) — reconstruído; pendente de aprovação.
+
 ### Bloco I — Como Grandes Investidores Pensam
 
-1. Do Pensamento de Primeiro e Segundo Nível — texto integral não localizado.
-2. Dos Modelos Mentais Multidisciplinares — texto integral não localizado.
+1. [Do Pensamento de Primeiro e Segundo Nível](capitulo-03-forma-de-pensar.md#artigo-1º--do-pensamento-de-primeiro-e-segundo-nível) — reconstruído; pendente de aprovação.
+2. [Dos Modelos Mentais Multidisciplinares](capitulo-03-forma-de-pensar.md#artigo-2º--dos-modelos-mentais-multidisciplinares) — reconstruído; pendente de aprovação.
 3. [Da Probabilidade versus Certeza](capitulo-03-forma-de-pensar.md#artigo-3º--da-probabilidade-versus-certeza) — consolidado.
 4. [Da Arte de Conviver com a Incerteza](capitulo-03-forma-de-pensar.md#artigo-4º--da-arte-de-conviver-com-a-incerteza) — consolidado.
 5. Do Custo de Estar Errado — pendente.
@@ -47,4 +49,4 @@
 29. De Como o AFF Enxerga Patrimônio.
 30. Da Filosofia Cognitiva do AFF.
 
-> Com exceção dos artigos 3º e 4º, os itens sem indicação de estado permanecem pendentes de redação integral. O preâmbulo do capítulo também não foi localizado.
+> Os textos do preâmbulo e dos artigos 1º e 2º são reconstruções editoriais, pois os originais não foram localizados após [busca documental](BUSCA_DOCUMENTAL_PREAMBULO_ARTIGOS_01_02.md). Os artigos 3º e 4º estão consolidados. Os demais itens permanecem pendentes de redação integral.

@@ -57,9 +57,9 @@
 
 ### Capítulo III — A Forma de Pensar do Analista de Finanças Familiares
 
-- Preâmbulo do capítulo — declarado como redigido, mas texto integral não localizado.
-- Artigo 1º — Do Pensamento de Primeiro e Segundo Nível — declarado como redigido, mas texto integral não localizado.
-- Artigo 2º — Dos Modelos Mentais Multidisciplinares — declarado como redigido, mas texto integral não localizado.
+- [Preâmbulo do capítulo](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#preâmbulo-do-capítulo-iii) — reconstruído; pendente de aprovação.
+- [Artigo 1º — Do Pensamento de Primeiro e Segundo Nível](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-1º--do-pensamento-de-primeiro-e-segundo-nível) — reconstruído; pendente de aprovação.
+- [Artigo 2º — Dos Modelos Mentais Multidisciplinares](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-2º--dos-modelos-mentais-multidisciplinares) — reconstruído; pendente de aprovação.
 - [Artigo 3º — Da Probabilidade versus Certeza](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-3º--da-probabilidade-versus-certeza) — consolidado.
 - [Artigo 4º — Da Arte de Conviver com a Incerteza](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-4º--da-arte-de-conviver-com-a-incerteza) — consolidado.
 - Artigos 5º a 30º — estrutura aprovada; redação integral pendente.
@@ -68,4 +68,5 @@
 
 - [Lacunas dos Títulos I e II](LACUNAS_TITULOS_I_II.md)
 - [Convenções editoriais](CONVENCOES_EDITORIAIS.md)
+- [Busca documental do preâmbulo e dos Artigos 1º e 2º](titulo-02-modelo-mental/BUSCA_DOCUMENTAL_PREAMBULO_ARTIGOS_01_02.md)
 - [Fontes históricas recuperadas](../legacy/fontes-recuperadas/README.md)
