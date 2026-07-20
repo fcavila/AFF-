@@ -62,8 +62,9 @@
 - [Artigo 2º — Dos Modelos Mentais Multidisciplinares](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-2º--dos-modelos-mentais-multidisciplinares) — reconstruído; pendente de aprovação.
 - [Artigo 3º — Da Probabilidade versus Certeza](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-3º--da-probabilidade-versus-certeza) — consolidado.
 - [Artigo 4º — Da Arte de Conviver com a Incerteza](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-4º--da-arte-de-conviver-com-a-incerteza) — consolidado.
-- [Artigo 5º — Do Custo de Estar Errado](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-5º--do-custo-de-estar-errado) — redação inédita; pendente de aprovação.
-- Artigos 6º a 30º — estrutura aprovada; redação integral pendente.
+- [Artigo 5º — Do Custo de Estar Errado](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-5º--do-custo-de-estar-errado) — redação inédita aprovada.
+- [Artigo 6º — Do Círculo de Competência](titulo-02-modelo-mental/capitulo-03-forma-de-pensar.md#artigo-6º--do-círculo-de-competência) — redação inédita aprovada.
+- Artigos 7º a 30º — estrutura aprovada; redação integral pendente.
 
 ## Controle editorial
 

@@ -29,7 +29,8 @@
 - Reconstruído o Artigo 2º — Dos Modelos Mentais Multidisciplinares, com a norma provisória `AFF-MM-002`.
 - Adicionado o Artigo 3º — Da Probabilidade versus Certeza.
 - Adicionado o Artigo 4º — Da Arte de Conviver com a Incerteza.
-- Preparada a minuta inédita do Artigo 5º — Do Custo de Estar Errado, com a norma provisória `AFF-MM-005`, pendente de aprovação editorial.
+- Adicionado e aprovado editorialmente o Artigo 5º — Do Custo de Estar Errado, com a norma `AFF-MM-005`.
+- Adicionado e aprovado editorialmente o Artigo 6º — Do Círculo de Competência, com a classificação em três zonas e a norma `AFF-MM-006`.
 - Incluídas referências a Kahneman e Tversky, Knight, Graham, Howard Marks, Michael Mauboussin, Philip Tetlock, Annie Duke, Nassim Nicholas Taleb, Orleans Martins e Felipe Pontes.
 - Criado índice parcial do Livro I.
 - Registrada a pendência de incorporação dos textos integrais dos artigos 1º e 2º, ausentes das fontes disponíveis.

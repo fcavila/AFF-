@@ -1236,3 +1236,288 @@ O investidor maduro não pergunta apenas quantas vezes estará certo. Pergunta o
 - MAUBOUSSIN, Michael J.; CALLAHAN, Dan. “Probabilities and Payoffs: The Practicalities and Psychology of Expected Value”. Morgan Stanley Investment Management, 19 fev. 2025. [Relatório](https://www.morganstanley.com/im/publication/insights/articles/article_probabilitiesandpayoffs.pdf).
 - SHEFRIN, Hersh; STATMAN, Meir. “The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence”. *The Journal of Finance*, v. 40, n. 3, p. 777–790, 1985. DOI: 10.1111/j.1540-6261.1985.tb05002.x.
 - TALEB, Nassim Nicholas. *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets*. 2. ed. New York: Random House, 2005.
+
+---
+
+# Artigo 6º — Do Círculo de Competência
+
+> **Proveniência:** redação editorial inédita, preparada em 20 de julho de 2026 a partir da estrutura aprovada do Capítulo III. Não corresponde à recuperação de texto histórico e permanece pendente de aprovação do editor-chefe.
+
+**O Analista de Finanças Familiares somente aprovará decisões cuja tese, mecanismos econômicos, riscos materiais e limites de conhecimento possa explicar e examinar com evidências proporcionais ao impacto patrimonial. O tamanho do círculo de competência não constituirá objetivo em si; serão obrigatórios o reconhecimento de suas fronteiras, a recusa da falsa familiaridade e o redimensionamento ou a abstenção quando a compreensão for insuficiente.**
+
+## Comentário Técnico
+
+Círculo de competência é o conjunto de problemas, empresas e situações que o analista possui capacidade demonstrável de avaliar com qualidade suficiente para decidir. Não é uma lista permanente de setores favoritos nem declaração subjetiva de conforto. É um limite operacional entre aquilo que pode ser analisado com razoável profundidade e aquilo que ainda depende de premissas não dominadas.
+
+Warren Buffett sintetizou o princípio ao afirmar que o investidor não precisa avaliar todas as empresas, mas deve saber quais consegue avaliar e conhecer as fronteiras dessa capacidade. O valor do conceito está menos no tamanho do círculo do que na honestidade de seu contorno.
+
+Uma empresa conhecida pelo público pode permanecer fora do círculo. Consumir seus produtos, acompanhar suas ações ou reconhecer sua marca não demonstra compreensão de margens, reinvestimento, concorrência, regulação, governança e valor. Inversamente, uma empresa pouco conhecida pode estar dentro do círculo de um analista com experiência e dados adequados.
+
+O círculo também não coincide com formação acadêmica ou cargo profissional. Credenciais oferecem base, mas competência para investir exige integrar conhecimento do negócio, leitura financeira, avaliação de preço, incerteza e efeito sobre o patrimônio familiar.
+
+## Competência para Qual Decisão?
+
+Competência é específica ao objeto e à decisão. O mesmo analista pode compreender:
+
+- a operação de uma empresa, mas não sua contabilidade;
+- a contabilidade, mas não a regulação;
+- o setor, mas não o controlador;
+- os fluxos de caixa, mas não a tecnologia que ameaça o negócio;
+- a empresa, mas não o preço necessário para justificar a compra;
+- o ativo, mas não seu efeito agregado sobre a família.
+
+Por isso, declarar “conheço o setor” será insuficiente. O AFF deverá identificar qual conclusão está autorizado a sustentar. Competência para manter pequena posição madura não implica competência para aumentar durante uma crise, avaliar aquisição transformacional ou estimar passivo jurídico extraordinário.
+
+## As Dimensões da Competência
+
+O AFF examinará ao menos sete dimensões.
+
+### Modelo econômico
+
+Como a empresa cria valor, converte receita em caixa, reinveste e remunera o capital. Inclui clientes, fornecedores, custos, escala, ciclo e dependências críticas.
+
+### Dinâmica competitiva
+
+Quais forças sustentam ou deterioram vantagem competitiva, poder de preço, participação, barreiras de entrada e substituição.
+
+### Contabilidade e finanças
+
+Quais demonstrações, estimativas, ajustes, obrigações e fontes de financiamento representam a realidade econômica — e onde podem ocultá-la.
+
+### Administração, controle e incentivos
+
+Quem decide, quais interesses orientam essas decisões e como capital, riscos e resultados são distribuídos entre controladores, administradores e minoritários.
+
+### Regulação, contratos e tecnologia
+
+Quais normas, concessões, contratos, licenças e mudanças tecnológicas podem alterar direitos, rentabilidade ou continuidade.
+
+### Valuation e expectativas
+
+Quais variáveis determinam valor, que faixa de resultados é plausível e quais expectativas parecem incorporadas ao preço.
+
+### Contexto patrimonial
+
+Como a posição interage com liquidez, renda, concentração, horizonte, obrigações e objetivos familiares.
+
+Falha material em uma dimensão poderá colocar a tese na fronteira ou fora do círculo, ainda que as demais sejam conhecidas.
+
+## As Três Zonas do AFF
+
+Para tornar o conceito operacional, o AFF adotará três zonas.
+
+### Zona de competência
+
+O analista consegue explicar os mecanismos centrais, identificar variáveis de valor, interpretar dados relevantes, formular cenários, reconhecer sinais de invalidação e declarar os limites remanescentes. A decisão poderá avançar para os demais critérios, sem que essa classificação represente aprovação automática.
+
+### Zona de fronteira
+
+Há compreensão parcial, mas permanece lacuna capaz de alterar materialmente valor, risco ou adequação patrimonial. A empresa poderá permanecer em estudo, observação ou carteira simulada. Posição preexistente exigirá congelamento de aportes e avaliação de redução; nova aprovação dependerá do fechamento da lacuna material.
+
+### Zona externa
+
+O analista não compreende um ou mais mecanismos determinantes, não consegue avaliar a qualidade das informações ou depende de previsão fora de sua capacidade. A seleção ativa será recusada. Interesse, popularidade, recomendação externa ou retorno passado não deslocarão a empresa para dentro do círculo.
+
+Essa classificação é instrumento próprio do AFF, de **Nível D**. Ela não é apresentada como taxonomia literal de Buffett ou Munger.
+
+## Familiaridade, Informação e Compreensão
+
+Familiaridade reduz a sensação de risco sem necessariamente reduzir o risco real. Marcas conhecidas, empresas locais, empregadores e setores presentes na vida cotidiana podem receber confiança excessiva justamente porque parecem próximos.
+
+Informação também não equivale a compreensão. Ler muitos relatórios pode ampliar detalhes sem revelar o mecanismo decisivo. O teste não é a quantidade de dados acumulados, mas a capacidade de:
+
+1. explicar como o negócio ganha dinheiro;
+2. identificar por que continuará ou deixará de ganhar;
+3. relacionar demonstrações financeiras à operação;
+4. apontar o que mais afeta valor e risco;
+5. descrever o que faria a tese estar errada;
+6. reconhecer perguntas ainda sem resposta.
+
+Explicação simples não significa análise simplista. A simplicidade válida aparece depois que complexidades materiais foram examinadas.
+
+## Competência, Confiança e Evidência
+
+Confiança é sensação; competência é capacidade testável. Experiência pode melhorar julgamento, mas também consolidar hábitos inadequados. O AFF não aceitará autodeclaração sem evidência.
+
+São sinais de competência:
+
+- previsões e premissas registradas antes dos resultados;
+- explicações causais que sobrevivem a perguntas contrárias;
+- reconhecimento explícito de limites;
+- capacidade de distinguir fatos, estimativas e hipóteses;
+- histórico de calibração em questões comparáveis;
+- identificação de mudanças que tornam conhecimento anterior obsoleto;
+- revisão de opinião diante de evidência nova.
+
+Retorno passado isolado não comprova competência, porque pode decorrer de mercado favorável, fator comum, concentração ou sorte. Da mesma forma, resultado adverso isolado não demonstra incompetência. A avaliação seguirá a separação entre processo e desfecho dos Artigos 3º e 5º.
+
+## O Círculo é Dinâmico
+
+Competência pode crescer, encolher ou perder validade. Estudo e experiência ampliam capacidade; mudanças tecnológicas, regulatórias, competitivas e pessoais podem reduzir a utilidade do conhecimento acumulado.
+
+Uma empresa pode sair do círculo sem mudar de setor. Aquisição relevante, novo controlador, alteração contábil, expansão internacional, produto desconhecido, dívida complexa ou dependência de tecnologia emergente podem transformar a tese.
+
+O AFF revisará não apenas se a empresa continua boa, mas se continua compreensível. Conhecimento antigo não receberá validade automática em regime novo.
+
+## Como Ampliar o Círculo
+
+O círculo não deverá ser prisão intelectual. Sua expansão, porém, exigirá processo deliberado:
+
+1. definir a pergunta que se deseja responder;
+2. estudar fundamentos do setor e sua história econômica;
+3. mapear cadeia de valor, concorrentes, regulação e incentivos;
+4. aprender as particularidades contábeis e financeiras;
+5. examinar ciclos completos e casos de fracasso;
+6. construir taxas-base e cenários;
+7. comparar a tese com argumentos contrários;
+8. acompanhar a empresa sem necessidade de agir;
+9. registrar previsões verificáveis;
+10. submeter a análise a revisão independente.
+
+Contato com especialistas poderá reduzir lacunas, mas não transferirá responsabilidade. O AFF deverá compreender o suficiente para avaliar competência, incentivos, método e limites do especialista. Opinião terceirizada que o analista não consegue interrogar não se converterá em competência própria.
+
+Aprendizagem será realizada preferencialmente por acompanhamento, registro de hipóteses e carteira simulada. O AFF não comprará uma posição apenas para criar compromisso com o estudo, pois tamanho pequeno reduz impacto, mas não converte desconhecimento em competência e pode produzir ancoragem ou justificativa posterior da compra.
+
+## A Opção de Não Agir
+
+O investidor não é obrigado a avaliar ou possuir toda empresa. Quando não houver compreensão suficiente, poderá:
+
+- manter o caso em estudo;
+- esperar evidência ou preço que reduza dependência de premissas frágeis;
+- buscar exposição diversificada e passiva quando compatível com a política patrimonial;
+- escolher alternativa mais simples;
+- não agir.
+
+Abstenção consciente difere de omissão defeituosa. Nos termos do Artigo 5º, oportunidade fora do círculo não será contabilizada retrospectivamente como erro apenas porque se valorizou. O custo de oportunidade deverá ser comparado com alternativas que estavam realmente disponíveis e compreendidas.
+
+## Aplicação às Empresas de Dividendos
+
+Histórico longo de pagamentos não torna uma empresa simples. Bancos, seguradoras, concessionárias, fundos imobiliários, empresas de commodities e holdings podem distribuir renda recorrente enquanto carregam riscos específicos de crédito, provisões, regulação, contratos, ciclos ou estrutura societária.
+
+O investidor de dividendos deverá compreender:
+
+- origem econômica e financeira da distribuição;
+- diferença entre lucro, caixa e recursos distribuíveis;
+- investimentos necessários para sustentar a operação;
+- dívida, covenants e acesso a financiamento;
+- discricionariedade da administração e do controlador;
+- restrições legais e regulatórias;
+- sensibilidade do pagamento ao ciclo;
+- fatores que podem cortar simultaneamente renda e valor.
+
+Se não puder interpretar provisões bancárias, reservas de seguros, revisões tarifárias ou contratos imobiliários, o AFF não presumirá competência apenas porque entende o Dividend Yield.
+
+## Origem e Fundamentação
+
+Na carta de 1996 aos acionistas da Berkshire Hathaway, Buffett afirmou que o investidor precisa avaliar corretamente empresas selecionadas dentro de seu círculo de competência e que conhecer as fronteiras importa mais do que o tamanho do círculo.
+
+Charlie Munger desenvolveu princípio convergente ao defender uma rede de modelos e o reconhecimento das próprias limitações. Howard Marks, em *Whad’Ya Know?*, associa a vantagem ao reconhecimento do que pode e não pode ser conhecido. Em *You Bet!*, relaciona círculo de competência, escolha do jogo e direito de esperar por uma oportunidade compreensível.
+
+Herbert Simon mostrou que decisões ocorrem sob racionalidade limitada: informação, atenção e capacidade cognitiva são finitas. O círculo de competência funciona como resposta prudencial a essa limitação, mas sua taxonomia operacional e suas regras patrimoniais são formulações do AFF.
+
+A existência de limites cognitivos recebe **Nível A**. A relação entre experiência específica, conhecimento e melhor julgamento recebe **Nível B**, condicionada a domínio, feedback e contexto. As três zonas, os critérios de classificação e a Norma AFF-MM-006 recebem **Nível D**.
+
+## Comparação entre Escolas de Pensamento
+
+### Especialização
+
+Favorece profundidade e reconhecimento de padrões. Pode criar visão estreita, dependência de regime anterior e excesso de confiança no próprio domínio.
+
+### Generalismo multidisciplinar
+
+Ajuda a conectar modelos e identificar variáveis externas. Pode permanecer superficial quando amplitude substitui conhecimento operacional.
+
+### Gestão passiva
+
+Reduz a necessidade de selecionar empresas individualmente e reconhece a dificuldade de obter vantagem informacional. Não elimina a necessidade de compreender política de alocação, custos, liquidez e comportamento familiar.
+
+### Abordagem AFF
+
+Combina profundidade suficiente no objeto, modelos multidisciplinares e adequação patrimonial. Quando essa combinação não puder ser demonstrada, prefere reduzir exposição, usar solução diversificada compatível ou abster-se.
+
+## Limitações e Riscos de Interpretação
+
+O círculo pode ser usado para justificar imobilidade, rejeitar inovação ou proteger crenças antigas. Também pode ser desenhado de modo amplo demais, convertendo familiaridade em autorização universal.
+
+Outro risco é confundir empresa simples com decisão simples. Mesmo negócio compreensível pode ser investimento ruim por preço, governança, dívida ou concentração. O círculo é condição de análise, não selo de qualidade.
+
+Competência coletiva merece cautela. Uma equipe pode reunir conhecimentos complementares, mas lacunas entre especialistas, incentivos e responsabilidade difusa podem impedir integração. A decisão deverá possuir responsável capaz de explicar como as contribuições se conectam.
+
+Por fim, reconhecer limites não elimina cisnes negros ou mudança de regime. Estar dentro do círculo reduz ignorância evitável; não converte incerteza em certeza.
+
+## Exemplo Prático ou Estudo de Caso Conceitual
+
+Uma analista acompanha há anos uma concessionária de energia. Compreende revisão tarifária, investimentos, dívida, qualidade do serviço e política de dividendos. A empresa anuncia aquisição de plataforma digital estrangeira, financiada por dívida e condicionada a metas de desempenho tecnológico. Para fins ilustrativos, o preço da aquisição equivale a 30% do valor da firma da concessionária, a dívida líquida consolidada quase dobra e garantias da controladora podem transmitir perdas ao negócio regulado.
+
+O setor original permanece dentro do círculo, mas a decisão transformacional cria lacunas em tecnologia, integração internacional, contratos e alocação de capital. Tratar a empresa inteira como conhecida apenas por seu histórico seria falsa continuidade.
+
+O AFF reclassificaria a tese da zona de competência para a zona de fronteira. Suspenderia aumento de posição, tentaria estimar separadamente o negócio regulado e a aquisição sem presumir separação econômica, testaria garantias e contaminação financeira, mapearia cenários de dívida e integração e buscaria revisão especializada. Se a aquisição passasse a determinar parcela material do valor sem análise confiável, a empresa iria para a zona externa da seleção ativa, podendo exigir redução conforme o custo de erro.
+
+Se, ao contrário, o impacto máximo fosse pequeno, contratualmente limitado e financiado sem ameaçar o negócio principal, a empresa poderia retornar à zona de competência após diligência documentada. A classificação depende da materialidade da lacuna, não da novidade por si só.
+
+## Posição Oficial do AFF
+
+O AFF considera o círculo de competência uma fronteira de decisão, não uma identidade intelectual. A metodologia adotará os seguintes princípios:
+
+- fronteiras reconhecidas importam mais do que amplitude declarada;
+- competência será específica à tese e à decisão;
+- familiaridade, credencial e retorno passado não bastam;
+- lacuna material impedirá nova aprovação ou aumento até ser fechada; proteção limitará o dano de posição preexistente, mas não transformará desconhecimento em competência;
+- especialistas apoiarão, mas não substituirão julgamento responsável;
+- mudanças de regime poderão reduzir competência existente;
+- não agir será decisão legítima;
+- oportunidade fora do círculo não será erro retrospectivo automático;
+- empresa compreensível ainda deverá passar por preço, risco e adequação patrimonial.
+
+## Critérios Operacionais
+
+Antes de classificar uma tese na zona de competência, o AFF deverá responder:
+
+1. Como a empresa cria valor e converte resultado em caixa?
+2. Quais variáveis determinam receita, margem, reinvestimento e retorno sobre capital?
+3. Quais forças podem deteriorar a vantagem competitiva?
+4. As demonstrações representam adequadamente a economia do negócio?
+5. Quais incentivos orientam administração e controlador?
+6. Que regulação, contrato ou tecnologia pode alterar a tese?
+7. Quais premissas determinam a faixa de valor?
+8. O que o preço parece pressupor?
+9. Quais são os mecanismos de perda permanente?
+10. Que evidência invalidará a tese?
+11. Quais perguntas materiais continuam sem resposta?
+12. O conhecimento disponível resulta de compreensão própria ou confiança terceirizada?
+13. Há histórico de análise comparável que permita avaliar calibração?
+14. A empresa ou o regime mudou desde a última classificação?
+15. A posição permanece adequada à carteira e à família?
+
+### Protocolo provisório de classificação
+
+1. toda tese receberá classificação documentada como zona de competência, zona de fronteira ou zona externa, com data e identificação do analista responsável;
+2. a classificação indicará as dimensões dominadas, as respostas completas, parciais ou ausentes, as lacunas, suas fontes de evidência e sua materialidade;
+3. a evidência mínima incluirá demonstrações e documentos regulatórios ou societários primários pertinentes, comparação independente, cenário contrário e registro das premissas determinantes; ausência justificada de fonte primária deverá reduzir a confiança;
+4. lacuna será **material** quando puder alterar faixa de valor, risco de perda permanente, sustentabilidade da renda, classificação da empresa ou adequação patrimonial;
+5. zona de competência exigirá resposta adequada em todas as dimensões materiais; resposta parcial material determinará zona de fronteira; incapacidade de avaliar mecanismo determinante ou a confiabilidade das evidências determinará zona externa;
+6. nenhuma tese nova nas zonas de fronteira ou externa será aprovada para seleção ativa enquanto houver lacuna material; estudo ocorrerá sem capital real;
+7. posição preexistente reclassificada terá aportes congelados imediatamente e plano documentado de manutenção, redução ordenada ou saída, com data definida para nova deliberação e prazo proporcional à materialidade, liquidez e risco familiar; ameaça a obrigação prioritária exigirá ação imediata;
+8. mudança material em negócio, controle, dívida, regulação, tecnologia, contabilidade, política distributiva ou capacidade do próprio analista exigirá reclassificação;
+9. contribuição de especialista será registrada com escopo, premissas, incentivos, limitações e forma de validação;
+10. conflito financeiro, profissional ou pessoal do responsável pela classificação será declarado e exigirá revisão por pessoa sem vínculo capaz de afetar materialmente sua independência;
+11. decisão material na zona de competência será submetida a revisor identificado e independente nos termos do item anterior, e divergências sobre zona, evidência ou lacuna serão preservadas no registro;
+12. a expansão do círculo exigirá registro de estudo, hipóteses verificáveis, argumentos contrários e período de observação compatível com a complexidade;
+13. revisão anual e todo fato material confirmarão ou alterarão a zona atribuída;
+14. quando a classificação não puder ser sustentada, prevalecerá a zona mais restritiva até nova evidência.
+
+## Norma Operacional AFF-MM-006
+
+> **Nenhuma seleção ativa será aprovada quando o analista não puder explicar, com evidências proporcionais à materialidade, os mecanismos econômicos da empresa, as variáveis determinantes de valor, os riscos capazes de invalidar a tese e os limites de seu próprio conhecimento. Toda tese terá responsável identificado e será classificada como zona de competência, fronteira ou externa. Lacuna material impedirá nova posição ou aumento; em posição preexistente, exigirá congelamento de aportes e decisão documentada de manutenção, redução ou saída. Decisão material exigirá declaração de conflitos e revisão independente. Familiaridade, recomendação de terceiros e retorno passado não substituirão compreensão demonstrável.**
+
+## Reflexão Final
+
+O círculo de competência não separa pessoas inteligentes de pessoas incapazes. Separa decisões nas quais o conhecimento disponível pode sustentar responsabilidade daquelas em que a honestidade recomenda esperar. A disciplina não está em saber tudo, mas em não permitir que o patrimônio familiar pague pela recusa de admitir o que ainda não se sabe.
+
+## Referências
+
+- BERKSHIRE HATHAWAY INC. “Chairman’s Letter — 1996”. 1997. [Carta aos acionistas](https://www.berkshirehathaway.com/letters/1996.html).
+- MARKS, Howard. “Whad’Ya Know?”. Oaktree Capital Management, 11 mar. 2003. [Memorando](https://www.oaktreecapital.com/docs/default-source/memos/2003-03-11-whad-ya-know.pdf).
+- MARKS, Howard. “You Bet!”. Oaktree Capital Management, 13 jan. 2020. [Memorando](https://www.oaktreecapital.com/docs/default-source/memos/you-bet.pdf).
+- MUNGER, Charles T. “A Lesson on Elementary, Worldly Wisdom as It Relates to Investment Management & Business”. USC Business School, 1994. Reproduzido em: KAUFMAN, Peter D. (org.). *Poor Charlie’s Almanack*. 3. ed. Virginia Beach: Donning Company, 2008.
+- SIMON, Herbert A. “A Behavioral Model of Rational Choice”. *The Quarterly Journal of Economics*, v. 69, n. 1, p. 99–118, 1955. DOI: 10.2307/1884852.
