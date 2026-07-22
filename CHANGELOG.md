@@ -21,6 +21,9 @@
 - Incluídas, em estado de revisão, as normas operacionais `AFF-CM-013` a `AFF-CM-017`, preservando `AFF-CM-012` para o Artigo 14º e `AFF-CM-018` para o Artigo 20º.
 - Criada escala classificatória transitória para harmonizar aprovação integral, aprovação com ressalvas, ausência de classificação e reprovação até a redação do Artigo 37º.
 - Separados, no Artigo 19º, os protocolos de geração de caixa de empresas não financeiras, bancos, seguradoras e outras instituições financeiras.
+- Concluída a busca documental pelos originais dos Artigos 21º a 26º, sem localização dos textos integrais, com registro auditável das fontes e dos 472 documentos Word examinados.
+- Reconstruídos, para revisão editorial, os Artigos 21º a 26º: Crescimento Sustentável, Análise Baseada em Evidências, Política de Endividamento, Preservação do Poder de Compra, Compra Inteligente e Venda Inteligente.
+- Incluídas, em estado de revisão, as normas operacionais `AFF-CM-019` a `AFF-CM-024`.
 
 ### Controle editorial
 

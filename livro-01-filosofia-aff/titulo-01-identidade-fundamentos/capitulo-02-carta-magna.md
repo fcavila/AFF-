@@ -4,7 +4,7 @@
 
 # CAPÍTULO II — DOS OBJETIVOS ESTRATÉGICOS
 
-> **Nota editorial:** este capítulo contém consolidações editoriais dos textos recuperados para os artigos 2º a 6º, 14º e 20º, além de reconstruções editoriais dos artigos 7º a 13º e 15º a 19º. As reconstruções somente foram iniciadas após busca documental suficiente, estão identificadas no corpo do texto e permanecem em revisão até aprovação do editor-chefe. As fontes recuperadas permanecem em `legacy/fontes-recuperadas/`. As buscas específicas estão registradas em [`BUSCA_DOCUMENTAL_ARTIGOS_07_13.md`](BUSCA_DOCUMENTAL_ARTIGOS_07_13.md) e [`BUSCA_DOCUMENTAL_ARTIGOS_15_19.md`](BUSCA_DOCUMENTAL_ARTIGOS_15_19.md).
+> **Nota editorial:** este capítulo contém consolidações editoriais dos textos recuperados para os artigos 2º a 6º, 14º e 20º, além de reconstruções editoriais dos artigos 7º a 13º, 15º a 19º e 21º a 26º. As reconstruções somente foram iniciadas após busca documental suficiente, estão identificadas no corpo do texto e permanecem em revisão até aprovação do editor-chefe. As fontes recuperadas permanecem em `legacy/fontes-recuperadas/`. As buscas específicas estão registradas em [`BUSCA_DOCUMENTAL_ARTIGOS_07_13.md`](BUSCA_DOCUMENTAL_ARTIGOS_07_13.md), [`BUSCA_DOCUMENTAL_ARTIGOS_15_19.md`](BUSCA_DOCUMENTAL_ARTIGOS_15_19.md) e [`BUSCA_DOCUMENTAL_ARTIGOS_21_26.md`](BUSCA_DOCUMENTAL_ARTIGOS_21_26.md).
 
 | Artigo | Classificação | Fontes principais |
 |---:|---|---|
@@ -14,6 +14,7 @@
 | 14º | Consolidação editorial ampliada | AFF v0.3. |
 | 15º a 19º | Reconstrução editorial em revisão | Prompt Mestre, AFF v0.2, critérios dispersos do acervo e referências primárias indicadas em cada artigo. |
 | 20º | Consolidação editorial com revisão bibliográfica | Artigo 20 v0.1, livro-base, S&P DJI e Damodaran. |
+| 21º a 26º | Reconstrução editorial em revisão | Prompt Mestre, AFF v0.2, Volume I v0.1, critérios dispersos do acervo e referências primárias indicadas em cada artigo. |
 
 > **Escala classificatória transitória:** até a aprovação do Sistema de Classificação AFF previsto no Artigo 37º, “classificação máxima” e “alta qualidade” significarão aprovação integral dos requisitos obrigatórios do objeto avaliado, sem bloqueio material. “Aprovado com ressalvas” indicará atendimento dos requisitos obrigatórios com limitação não impeditiva registrada. “Não classificável” indicará evidência insuficiente. “Reprovado” indicará a presença de bloqueio normativo. A escala é transitória e não antecipa o conteúdo integral do Artigo 37º.
 
@@ -1468,3 +1469,711 @@ Um dividendo consumido encerra seu ciclo econômico no gasto. Um dividendo reinv
 [^2]: MARTINS, Orleans; PONTES, Felipe. *O Investidor em Ações de Dividendos*. São Paulo: edição dos autores, 2022. Especialmente capítulos 1, 4, 6, 10 e 15.
 
 [^3]: DAMODARAN, Aswath. *Dividend Policy*. Stern School of Business, New York University. Disponível em: <https://pages.stern.nyu.edu/~adamodar/New_Home_Page/lectures/dividend.html>.
+
+---
+
+# Artigo 21º — Do Crescimento Sustentável
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o `AFF_v0.2.md` e o Volume I v0.1 preservam referências parciais a crescimento sustentável, crescimento dos dividendos, criação de valor e expansão consistente do patrimônio. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF reconhecerá como sustentável somente o crescimento que puder ser financiado sem comprometer a continuidade da empresa, mantiver retorno incremental compatível com o risco e se converter em aumento duradouro de valor econômico por ação. Expansão de receita, lucro, ativos ou dividendos que dependa de alavancagem imprudente, diluição destrutiva, aquisições sem retorno adequado, subinvestimento ou condições transitórias não será tratada como criação de valor.**
+
+## Comentário Técnico
+
+Crescer não é apenas tornar-se maior. Para o acionista, crescimento útil é aquele que amplia o valor econômico de sua participação depois do capital necessário, do risco assumido e da diluição. Uma empresa pode aumentar receitas e lucros agregados enquanto reduz o valor por ação, consome caixa, deteriora o balanço ou aceita projetos com retorno inferior ao custo do capital.
+
+O AFF examinará conjuntamente:
+
+1. quanto capital precisa ser reinvestido;
+2. que retorno incremental esse capital produz;
+3. por quanto tempo o retorno poderá persistir;
+4. como o crescimento será financiado;
+5. quanto do resultado chegará a cada ação;
+6. quais riscos e fragilidades serão acumulados no processo.
+
+Este artigo detalha o componente de crescimento da geração de valor do Artigo 5º. O Artigo 11º disciplina o preço e a margem de segurança; o Artigo 12º, a relação entre risco e retorno; o Artigo 14º, a alocação corporativa; e o Artigo 19º, a conversão do resultado em caixa. Métricas, períodos e faixas usados aqui deverão ser os mesmos do memorando de análise ou conciliados expressamente.
+
+## As Dimensões do Crescimento
+
+Toda análise distinguirá, quando pertinente:
+
+- crescimento nominal e crescimento real;
+- valores agregados e valores por ação;
+- expansão orgânica e expansão por aquisições;
+- volume, preço, mix, câmbio e mudança de perímetro;
+- recuperação cíclica e avanço estrutural;
+- crescimento do lucro contábil e crescimento do caixa econômico;
+- investimento de manutenção e investimento de expansão.
+
+Recomposição de preço pela inflação poderá preservar receita real sem representar aumento de volume ou poder competitivo. Recuperação a partir de base deprimida não provará tendência duradoura. Aquisição poderá elevar receita e lucro total, mas destruir valor se o preço pago, as sinergias, a integração ou o financiamento forem inadequados.
+
+## Reinvestimento e Retorno Incremental
+
+Em formulação simplificada, o crescimento fundamental depende da parcela reinvestida e do retorno obtido sobre esse reinvestimento. A identidade será apenas ponto de partida: médias históricas de retorno podem ocultar que os projetos novos são menos produtivos do que os ativos existentes.
+
+O AFF privilegiará retorno **incremental**, observado ou prudentemente estimado, e investigará:
+
+- capital total empregado no crescimento;
+- defasagem entre investimento e resultado;
+- capitalização indevida de gastos;
+- necessidade adicional de capital de giro;
+- aquisições, arrendamentos e compromissos não refletidos no investimento aparente;
+- diferença entre retorno contábil e retorno econômico;
+- efeito da expansão sobre margens, caixa e risco.
+
+Retorno superior ao custo de capital favorece criação de valor; retorno inferior tende a destruí-lo, ainda que a empresa cresça. A estimativa do custo de capital e do retorno futuro permanece incerta e será tratada por faixas e cenários.
+
+## Financiamento e Limites
+
+Crescimento pode ser financiado por caixa interno, dívida, emissão de capital, venda de ativos ou combinação dessas fontes. O AFF verificará se a fonte é coerente com a duração, a moeda e a variabilidade econômica do projeto.
+
+O ritmo sustentável será limitado por fatores como:
+
+- mercado endereçável e intensidade competitiva;
+- capacidade produtiva, logística e tecnológica;
+- talento, controles e capacidade de execução;
+- capital de giro e geração de caixa;
+- dívida, liquidez e acesso a financiamento;
+- licenças, regulação e restrições ambientais;
+- governança e disciplina de alocação de capital.
+
+Crescimento mais rápido do que a capacidade operacional poderá degradar serviço, controles, cultura e retorno. Crescimento financiado por dívida curta ou emissão recorrente será confrontado com cenários adversos e com o resultado por ação.
+
+## Crescimento por Ação e em Termos Reais
+
+O acionista possui uma fração da empresa. Por isso, receita, lucro, caixa livre, patrimônio econômico e dividendos serão examinados também por ação, em base plenamente diluída.
+
+O crescimento nominal será comparado à inflação pertinente. Aumento de 8% em ambiente de inflação de 10% representa contração real aproximada, não crescimento do poder econômico. Câmbio e moeda funcional também serão considerados quando ativos, passivos, custos ou objetivos familiares estiverem expostos a moedas diferentes.
+
+## Persistência e Cenários
+
+Taxas elevadas atraem concorrência e raramente persistem indefinidamente. A análise deverá explicitar a transição entre fase de expansão, normalização e maturidade, evitando perpetuidade incompatível com o mercado disponível.
+
+Serão testados ao menos:
+
+1. cenário adverso, com crescimento menor, margem pressionada e financiamento restrito;
+2. cenário-base, coerente com capacidade, demanda e reinvestimento;
+3. cenário favorável, sem extrapolar vantagem competitiva ou mercado endereçável;
+4. sensibilidade a retorno incremental, reinvestimento, margem, capital de giro, dívida e diluição.
+
+## Critérios Operacionais
+
+1. Quais componentes explicam o crescimento histórico?
+2. O crescimento é real e também ocorre por ação?
+3. Quanto capital incremental foi necessário?
+4. Qual retorno incremental foi produzido e com que defasagem?
+5. O retorno esperado supera prudentemente o custo do capital correspondente?
+6. Como a expansão será financiada e que riscos acrescentará?
+7. Aquisições criaram valor depois do preço, da integração e do financiamento?
+8. A administração possui capacidade e incentivos para executar sem degradar controles?
+9. Quais limites de mercado, capacidade, regulação, dívida e governança restringem a trajetória?
+10. O valor estimado depende de crescimento distante ou superior ao mercado plausível?
+11. O cenário adverso preserva liquidez e continuidade?
+12. Crescimento, dividendos e recompras competem de modo racional pelo capital?
+
+## Classificação de Evidências
+
+- **Nível A:** identidades matemáticas expressamente definidas para crescimento fundamental e valor presente, válidas sob suas hipóteses e com parâmetros fixados; efeitos aritméticos de diluição sobre quantidades por ação.
+- **Nível B:** persistência do crescimento, retorno incremental, duração da vantagem e custo de capital dependem de empresa, setor, ciclo, método e horizonte.
+- **Nível C:** projeções distantes de mercado, sinergias e expansão de margens possuem incerteza elevada e exigem cenários conservadores.
+- **Nível D:** exigência AFF de crescimento real, por ação, financiável e criador de valor como condição normativa.
+
+## Norma Operacional AFF-CM-019
+
+> **Nenhuma empresa receberá classificação máxima em crescimento sustentável sem decomposição das fontes de expansão, estimativa do reinvestimento e do retorno incremental, identificação do financiamento, análise em termos reais e por ação plenamente diluída e teste de cenário adverso. Crescimento agregado, aquisição, elevação de payout ou projeção distante, isoladamente, não provarão criação de valor.**
+
+## Referências
+
+- HIGGINS, Robert C. “How Much Growth Can a Firm Afford?”. *Financial Management*, v. 6, n. 3, p. 7–16, 1977. DOI: 10.2307/3665251.
+- DAMODARAN, Aswath. “Growth Rates and Fundamentals”. Stern School of Business, New York University. [Material](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/littlebook/growthrates.htm).
+- DAMODARAN, Aswath. “Growth and Value: Past Growth, Predicted Growth and Fundamental Growth”. Stern School of Business, New York University. [Material](https://pages.stern.nyu.edu/~adamodar/New_Home_Page/invfables/growthdeterminants.htm).
+- PENMAN, Stephen H. *Financial Statement Analysis and Security Valuation*. 5. ed. New York: McGraw-Hill, 2013.
+
+---
+
+# Artigo 22º — Da Análise Baseada em Evidências
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o acervo contém diretrizes dispersas de análise fundamentada, independência intelectual, explicabilidade e revisão. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**Toda conclusão material do AFF será proporcional à qualidade, à suficiência, à convergência, à independência, à pertinência e à atualidade das evidências disponíveis. Fatos, estimativas, inferências e preferências normativas serão distinguidos; hipóteses serão confrontadas, quando aplicável, com explicações alternativas, taxas-base e evidências contrárias; incertezas, conflitos e condições de revisão serão registrados antes da decisão.**
+
+## Comentário Técnico
+
+Análise baseada em evidências não significa acumular dados que confirmem uma opinião. Significa formular questão verificável, procurar as melhores informações acessíveis, avaliar sua confiabilidade, integrar fontes independentes e limitar a força da conclusão ao que elas sustentam.
+
+Dados não falam sozinhos. A seleção do período, da amostra, da métrica e do método pode alterar resultados. Uma narrativa coerente pode ser falsa; um resultado estatístico pode ser frágil; um documento oficial pode estar desatualizado; uma administração pode ter incentivo para apresentar a empresa sob luz favorável.
+
+Este artigo governa a formação e a documentação das evidências utilizadas em toda a Carta Magna. Ele complementa a independência intelectual do Artigo 8º, mas não a substitui: independência trata da autonomia do julgamento; análise baseada em evidências, da rastreabilidade e da força do suporte desse julgamento.
+
+## Pergunta, Hipótese e Decisão
+
+Antes da coleta, o AFF registrará:
+
+1. qual decisão deverá ser tomada;
+2. qual pergunta factual ou estimativa a sustenta;
+3. qual hipótese principal está sendo testada;
+4. quais alternativas plausíveis competem com ela;
+5. que evidência aumentaria ou reduziria a confiança;
+6. qual precisão é realmente necessária para decidir.
+
+Essa disciplina reduz a busca retrospectiva de justificativas. A análise deverá ser suficiente para a materialidade da decisão, sem produzir complexidade que não altere a escolha.
+
+## Proveniência e Hierarquia das Fontes
+
+Cada evidência material deverá permitir identificar origem, data, período coberto, unidade, definição e transformação aplicada. Quando pertinente, serão preservados documento, página, tabela ou endereço estável.
+
+O AFF preferirá:
+
+1. demonstrações, documentos regulatórios, contratos, normas e bases oficiais para fatos primários;
+2. trabalhos acadêmicos originais e revisões robustas para relações empíricas;
+3. fontes técnicas independentes para interpretação e contraste;
+4. imprensa, agregadores e comentários como pistas ou contexto, não como substitutos de fonte primária disponível.
+
+A fonte oficial não será presumida infalível nem a fonte secundária, inútil. Relevância, método, incentivos, independência e possibilidade de verificação determinarão seu peso.
+
+## Separação entre Fato e Julgamento
+
+O registro analítico distinguirá:
+
+- **fato reportado:** consta de fonte identificada;
+- **dado ajustado:** resulta de transformação reproduzível;
+- **estimativa:** depende de premissas;
+- **inferência:** interpretação extraída de fatos e modelo;
+- **cenário:** possibilidade estruturada, não previsão certa;
+- **regra AFF:** escolha normativa, mesmo quando informada por evidência.
+
+Precisão numérica não aumentará automaticamente a confiança. Estimativas serão apresentadas por faixas quando a incerteza dos parâmetros tornar um ponto único enganoso.
+
+## Taxas-Base, Mecanismo e Causalidade
+
+Casos particulares serão confrontados com a frequência observada em grupos comparáveis. A taxa-base não substituirá a análise da empresa, mas impedirá que uma história excepcional seja aceita sem evidência excepcional.
+
+Correlação não provará causalidade. Quando uma relação sustentar a tese, o AFF investigará mecanismo econômico, ordem temporal, variáveis omitidas, seleção da amostra e explicações concorrentes. Resultado histórico de estratégia ou modelo será examinado quanto a custos, tributos, viés de sobrevivência, seleção retrospectiva, múltiplos testes e disponibilidade real da informação.
+
+## Evidência Contrária e Reprodutibilidade
+
+A análise deverá procurar ativamente fatos capazes de refutar a hipótese. Serão registrados:
+
+- argumento contrário mais forte;
+- evidência ausente que seria esperada se a tese fosse verdadeira;
+- resultado incompatível com a narrativa;
+- dependência de fonte única ou interessada;
+- tentativa de reproduzir cálculo material;
+- mudança de definição ou série histórica.
+
+Publicação ou significância estatística isolada não garantem robustez. A literatura documenta problemas de baixo poder, flexibilidade metodológica, seleção de resultados e dificuldade de reprodução; no mercado financeiro, a pesquisa repetida de relações eleva o risco de descobertas aparentes.
+
+## Atualização, Confiança e Rastro de Decisão
+
+Conclusões receberão grau de confiança compatível com as evidências e data de validade ou gatilho de atualização. Nova informação não exigirá mudança automática: será avaliada por qualidade, relevância e magnitude.
+
+O rastro mínimo registrará fontes, cálculos, premissas, versão da análise, responsável, data, conclusão, grau de confiança, evidência contrária e condições de invalidação. Ferramentas de inteligência artificial poderão auxiliar coleta, comparação e redação, mas suas saídas serão verificadas nas fontes e não constituirão evidência por si mesmas.
+
+## Critérios Operacionais
+
+1. Qual decisão e pergunta orientam a análise?
+2. Fatos, ajustes, estimativas, inferências, cenários e regras estão separados?
+3. As fontes são primárias quando disponíveis e possuem proveniência verificável?
+4. Dados e definições estão atualizados e comparáveis?
+5. Quais incentivos, conflitos e limitações afetam cada fonte?
+6. Qual taxa-base e qual grupo de comparação são pertinentes?
+7. Existe mecanismo econômico plausível além da correlação?
+8. Qual é a melhor evidência contrária?
+9. Cálculos materiais podem ser reproduzidos?
+10. Custos, tributos, sobrevivência, seleção e múltiplos testes foram considerados?
+11. A confiança declarada é proporcional à evidência?
+12. Quais fatos exigirão revisão ou invalidarão a conclusão?
+
+## Classificação de Evidências
+
+- **Nível A:** reprodução mecânica de um cálculo quando fórmula, dados, transformações e versões são integralmente fixados.
+- **Nível B:** evidência empírica de vieses de publicação, fragilidade de resultados e problemas de replicação, cuja magnitude varia entre campos e métodos.
+- **Nível C:** inferências empresariais apoiadas em amostras pequenas, analogias, dados incompletos ou horizontes curtos.
+- **Nível D:** protocolo de pergunta, proveniência, contraditório, confiança, invalidação e atualização adotado pelo AFF.
+
+## Norma Operacional AFF-CM-020
+
+> **Nenhuma conclusão material sustentará decisão AFF sem pergunta definida, fontes rastreáveis e atuais, separação entre fatos e estimativas, busca de evidência contrária, grau de confiança e condição de revisão ou invalidação. Taxas-base e explicações alternativas serão obrigatórias para inferências probabilísticas, causais ou comparativas quando houver referência pertinente, mas não para simples constatação de fato documental. Cálculo não reproduzível, fonte única interessada ou saída de inteligência artificial não verificada imporão ressalva, redução de confiança ou não classificação.**
+
+## Referências
+
+- OPEN SCIENCE COLLABORATION. “Estimating the Reproducibility of Psychological Science”. *Science*, v. 349, n. 6251, 2015. DOI: 10.1126/science.aac4716.
+- IOANNIDIS, John P. A. “Why Most Published Research Findings Are False”. *PLOS Medicine*, v. 2, n. 8, e124, 2005. DOI: 10.1371/journal.pmed.0020124.
+- HARVEY, Campbell R.; LIU, Yan; ZHU, Heqing. “… and the Cross-Section of Expected Returns”. *The Review of Financial Studies*, v. 29, n. 1, p. 5–68, 2016. DOI: 10.1093/rfs/hhv059.
+- KAHNEMAN, Daniel; KLEIN, Gary. “Conditions for Intuitive Expertise: A Failure to Disagree”. *American Psychologist*, v. 64, n. 6, p. 515–526, 2009. DOI: 10.1037/a0016755.
+- PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD. *AS 1215 — Audit Documentation*. Referência setorial para documentação de procedimentos, evidências e conclusões; sua aplicação ao registro AFF é uma adaptação editorial, não equiparação a auditoria. [Norma](https://pcaobus.org/oversight/standards/auditing-standards/details/AS1215). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 23º — Da Política de Endividamento
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o acervo contém critérios parciais sobre endividamento compatível com a geração de caixa, solidez financeira, liquidez e risco de continuidade. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF avaliará a dívida pela finalidade, capacidade de pagamento, estrutura, moeda, custo, prazo, garantias e resistência a cenários adversos. Endividamento somente será considerado saudável quando financiar uso economicamente justificável e puder ser servido sem depender de crescimento perfeito, venda forçada de ativos, emissão recorrente de capital ou refinanciamento em condições excepcionalmente favoráveis e não contempladas na estrutura ordinária do negócio.**
+
+## Comentário Técnico
+
+Dívida pode reduzir custo de financiamento, compatibilizar investimentos de longa duração e disciplinar o uso de capital. Também pode transferir valor a credores, limitar decisões, amplificar ciclos e destruir a participação dos acionistas quando a empresa perde acesso a caixa ou refinanciamento.
+
+O risco não é definido apenas pela razão dívida/EBITDA. Depende da estabilidade e conversão do resultado em caixa, das necessidades de reinvestimento, dos vencimentos, das taxas, da moeda, das garantias, dos covenants, da liquidez e da posição no ciclo.
+
+## Finalidade do Endividamento
+
+O AFF identificará se a dívida financia:
+
+- investimento produtivo com retorno esperado adequado;
+- capital de giro compatível com o ciclo operacional;
+- aquisição e integração de negócios;
+- substituição de passivo em condições melhores;
+- recompra, dividendos ou outra distribuição;
+- cobertura de déficit operacional recorrente;
+- necessidade emergencial de liquidez.
+
+Dívida que financia expansão rentável não será equiparada automaticamente à que sustenta operação inviável ou distribuição sem caixa. Entretanto, finalidade legítima não compensará estrutura incompatível ou retorno insuficiente.
+
+## Capacidade, Apetite e Limites
+
+**Capacidade de endividamento** é o montante que a empresa pode suportar em cenários razoáveis; **apetite** é a parcela que decide utilizar. Empresa prudente preservará folga para choques, sazonalidade e oportunidades.
+
+A análise incluirá, conforme o setor:
+
+1. dívida líquida e bruta;
+2. juros e encargos em caixa;
+3. fluxo operacional e caixa livre normalizados;
+4. cobertura de juros e do serviço total da dívida;
+5. alavancagem econômica, não apenas contábil;
+6. capital de giro, investimento obrigatório e obrigações prioritárias;
+7. compromissos contingentes e fora do balanço.
+
+EBITDA poderá auxiliar comparações, mas não substituirá caixa disponível para credores depois de tributos, capital de giro e investimento necessário.
+
+## Estrutura e Risco de Refinanciamento
+
+O mapa de dívida registrará credor ou instrumento, saldo, custo, indexador, moeda, garantia, senioridade, covenants e vencimento. A concentração de vencimentos será confrontada com caixa, linhas confirmadas e geração provável.
+
+Quando informação material não for pública, o AFF registrará a indisponibilidade, buscará fonte alternativa, estimará somente faixa defensável e reduzirá a confiança. Se a omissão impedir avaliar vencimento, garantia, covenant ou continuidade, o item será aprovado com ressalva ou considerado não classificável, conforme a gravidade; a falta de dado não será preenchida por presunção favorável.
+
+O AFF examinará:
+
+- taxa fixa ou variável e seus indexadores;
+- dívida em moeda diferente da geração de caixa;
+- prazo do passivo em relação ao ativo financiado;
+- exposição a garantias cruzadas e vencimento antecipado;
+- covenants financeiros e não financeiros;
+- arrendamentos, recebíveis cedidos, dívida de fornecedores, pensões e contingências;
+- dependência de mercado de capitais, banco, controlador ou parte relacionada.
+
+Hedge reduzirá risco somente na extensão, prazo e contraparte em que for efetivo. A existência nominal de derivativo não eliminará descasamento.
+
+## Estresse e Ordem de Prioridades
+
+O cenário adverso incluirá combinação plausível de queda de receita ou margem, aumento de juros, depreciação cambial, alongamento de capital de giro, investimento inadiável e fechamento do refinanciamento.
+
+Antes da classificação, o protocolo setorial documentará horizonte, choques, métricas, limites e regra decisória. Os limites não precisam ser universais, mas serão definidos antes de observado o resultado e justificados pela variabilidade do negócio, pelo ciclo, pelos contratos e pela política declarada.
+
+Serão estimados:
+
+1. caixa consumido e menor saldo de liquidez;
+2. cobertura de juros e serviço da dívida;
+3. distância até covenants;
+4. vencimentos sem cobertura;
+5. medidas corretivas necessárias;
+6. risco de emissão dilutiva, venda forçada, suspensão de dividendos ou insolvência.
+
+Dividendos, recompras e aquisições serão subordinados à continuidade e às obrigações prioritárias. Distribuição que exija novo endividamento será justificada explicitamente e receberá escrutínio reforçado.
+
+## Adaptação Setorial
+
+Para bancos, seguradoras e outras instituições financeiras, depósitos, provisões, reservas e passivos operacionais integram o modelo de negócio. A avaliação usará capital regulatório, liquidez, qualidade dos ativos, descasamentos, concentração de financiamento e testes de estresse próprios do setor, sem aplicar mecanicamente métricas de empresas não financeiras.
+
+Concessões, infraestrutura, imóveis e negócios de projetos poderão suportar dívida maior quando fluxos, contratos e garantias forem compatíveis; essa característica não dispensará análise de contraparte, regulação, refinanciamento e risco de construção ou demanda.
+
+## Critérios Operacionais
+
+1. Qual finalidade econômica originou cada parcela material da dívida?
+2. A empresa gera caixa suficiente depois de reinvestimento necessário?
+3. Qual é o mapa de vencimentos, taxas, moedas, garantias e covenants?
+4. Há concentração de vencimentos ou dependência de refinanciamento?
+5. Ativos e passivos estão compatíveis em prazo, moeda e indexador?
+6. Quais obrigações econômicas não aparecem na dívida financeira convencional?
+7. O cenário adverso preserva liquidez, cobertura e covenants?
+8. Que ações seriam exigidas antes de recorrer a emissão ou venda forçada?
+9. Dividendos, recompras ou aquisições agravaram a fragilidade?
+10. A política declarada coincide com a prática ao longo do ciclo?
+11. A administração preserva folga ou opera no limite da capacidade?
+12. O protocolo usado é adequado ao setor?
+
+## Classificação de Evidências
+
+- **Nível A:** obrigações contratuais, juros, amortizações e prioridades de pagamento afetam o caixa disponível e o risco de inadimplência.
+- **Nível B:** benefício fiscal, custo ótimo, capacidade de dívida e probabilidade de crise dependem de jurisdição, setor, ciclo e estabilidade dos fluxos.
+- **Nível C:** disponibilidade e preço de refinanciamento futuro são incertos, sobretudo sob estresse sistêmico ou específico.
+- **Nível D:** mapa integral da dívida, folga prudencial e teste de estresse como requisitos normativos do AFF.
+
+## Norma Operacional AFF-CM-021
+
+> **Nenhuma empresa receberá classificação máxima em endividamento sem mapa de saldos, custos, moedas, garantias, covenants e vencimentos, reconciliação do serviço da dívida com caixa livre normalizado e teste de estresse cujo horizonte, choques, métricas, limites e regra de classificação tenham sido justificados previamente para o setor. Informação pública insuficiente imporá ressalva ou não classificação. Dependência material de condições excepcionalmente favoráveis de refinanciamento, emissão dilutiva ou venda forçada para preservar continuidade impedirá classificação máxima; haverá reprovação quando o cenário adverso plausível ultrapassar limite obrigatório sem medida corretiva executável.**
+
+## Referências
+
+- MODIGLIANI, Franco; MILLER, Merton H. “The Cost of Capital, Corporation Finance and the Theory of Investment”. *American Economic Review*, v. 48, n. 3, p. 261–297, 1958.
+- MODIGLIANI, Franco; MILLER, Merton H. “Corporate Income Taxes and the Cost of Capital: A Correction”. *American Economic Review*, v. 53, n. 3, p. 433–443, 1963.
+- MYERS, Stewart C. “The Capital Structure Puzzle”. *The Journal of Finance*, v. 39, n. 3, p. 574–592, 1984. DOI: 10.1111/j.1540-6261.1984.tb03646.x.
+- DAMODARAN, Aswath. “Capital Structure: The Financing Details”. Stern School of Business, New York University. [Material](https://pages.stern.nyu.edu/~adamodar/pdfiles/acf2E/Chap9.pdf).
+- BASEL COMMITTEE ON BANKING SUPERVISION. *Basel Framework*. [Estrutura consolidada](https://www.bis.org/basel_framework/). Consulta em 22 jul. 2026.
+- INTERNATIONAL ASSOCIATION OF INSURANCE SUPERVISORS. *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups*. Dez. 2024. [Documento](https://www.iaisweb.org/uploads/2024/12/IAIS-ICPs-and-ComFrame-adopted-in-December-2024.pdf).
+
+---
+
+# Artigo 24º — Da Preservação do Poder de Compra
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; a preservação e ampliação do poder de compra aparecem como objetivos centrais no Volume I v0.1, no preâmbulo e nos artigos consolidados. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF avaliará patrimônio, renda, obrigações e resultados em termos reais e na moeda pertinente aos objetivos familiares. A preservação do valor nominal não será confundida com preservação econômica: inflação, tributos, custos, câmbio e mudança da cesta de consumo deverão ser incorporados à análise.**
+
+## Comentário Técnico
+
+Poder de compra é a quantidade de bens, serviços e objetivos que o patrimônio pode financiar. Uma carteira pode crescer nominalmente e ainda empobrecer a família se seu retorno líquido for inferior ao aumento dos custos relevantes.
+
+O índice oficial representa uma cesta média. A família possui composição própria de moradia, saúde, educação, alimentação, mobilidade, lazer, impostos e objetivos em moeda estrangeira. O AFF usará índices públicos como referência verificável e reconhecerá diferenças materiais da cesta familiar sem fabricar precisão inexistente.
+
+Este artigo operacionaliza a mensuração real dos objetivos dos Artigos 2º a 4º, da alocação do Artigo 15º e da renda tratada nos Artigos 13º e 20º. Ele não cria promessa de proteção perfeita: define como verificar se patrimônio e renda preservam capacidade de consumo.
+
+## Retorno Nominal, Real e Líquido
+
+Para retorno nominal líquido e inflação medidos na mesma moeda e no mesmo intervalo, sem fluxo externo intermediário não tratado, a relação exata do período será:
+
+> **retorno real = (1 + retorno nominal líquido) ÷ (1 + inflação pertinente) − 1.**
+
+A aproximação por subtração poderá ser usada apenas quando suficiente para a decisão. O retorno nominal líquido deduzirá tributos, taxas, custos de transação, administração, carregamento e demais despesas pertinentes.
+
+Em carteiras com aportes ou retiradas, o método e a data-base serão declarados. O retorno ponderado pelo tempo será preferido para avaliar a gestão sem o efeito dos fluxos externos; o retorno ponderado pelo dinheiro será usado para medir a experiência econômica da família com fluxos datados. Em objetivos com mais de uma moeda, cada fluxo será convertido para a moeda do objetivo na data pertinente antes do cálculo e da deflação, evitando contabilizar o câmbio duas vezes.
+
+Resultados serão avaliados em horizontes compatíveis com os objetivos. Um período curto poderá refletir choque inflacionário ou de mercado; um horizonte excessivamente longo poderá ocultar perda recente que ameaça obrigação próxima.
+
+## Inflação de Referência e Inflação Familiar
+
+No Brasil, o IPCA será referência geral quando compatível com o objetivo. INPC, índices setoriais, indexadores contratuais ou medida cambial poderão ser mais adequados em situações específicas.
+
+A inflação familiar será estimada quando houver diferença material e documentável, especialmente por:
+
+- educação e saúde com peso elevado;
+- aluguel, condomínio ou financiamento indexado;
+- consumo concentrado em região ou categoria;
+- obrigação futura em moeda estrangeira;
+- fase de vida que altere substancialmente a cesta;
+- padrão de consumo distinto da população coberta pelo índice.
+
+Quando calculada, a medida familiar registrará pesos, fontes de preços, periodicidade, data-base e tratamento de substituição ou mudança de qualidade. Amostra pessoal pequena ou instável será apresentada apenas como indicador auxiliar; na ausência de mensuração defensável, prevalecerá o índice oficial mais compatível com ressalva sobre a divergência esperada.
+
+Não se somarão índices incompatíveis. Cada objetivo terá moeda e referência de custo próprias, evitando uma única taxa artificial para todo o patrimônio.
+
+## Ativos, Renda e Obrigações
+
+Nenhum ativo será presumido proteção perfeita contra inflação em todo horizonte. A capacidade de preservar poder de compra dependerá de preço inicial, duração, indexação, qualidade do emissor, poder de repasse, custos, tributos, liquidez e regime econômico.
+
+O AFF examinará:
+
+1. retorno real esperado e adverso da carteira;
+2. crescimento real da renda passiva;
+3. sensibilidade de ativos e passivos à inflação e aos juros;
+4. descasamento entre moeda dos investimentos e das obrigações;
+5. liquidez durante choque inflacionário;
+6. risco de sequência de retornos na fase de usufruto;
+7. capacidade de reajustar aportes, gastos ou alocação.
+
+Dividendos crescentes nominalmente não preservarão renda se crescerem abaixo dos custos familiares. Títulos indexados reduzem um risco específico, mas conservam risco de crédito, marcação a mercado, reinvestimento, tributação e incompatibilidade de prazo.
+
+## Planejamento por Objetivos
+
+Cada objetivo material registrará:
+
+- valor atual e valor real desejado;
+- data-base e unidade monetária constante;
+- prazo e moeda de referência;
+- índice ou cesta pertinente;
+- retorno real requerido;
+- faixa de inflação e câmbio;
+- aportes, liquidez e margem de segurança;
+- regra de revisão.
+
+Projeções longas usarão cenários, não uma inflação pontual invariável. Mudança estrutural de padrão de consumo, legislação tributária ou moeda do objetivo exigirá atualização.
+
+## Critérios Operacionais
+
+1. Qual poder de compra o objetivo pretende preservar ou ampliar?
+2. Qual moeda e índice representam melhor esse objetivo?
+3. Há diferença material entre inflação oficial e cesta familiar?
+4. Retornos estão líquidos de tributos, taxas e custos?
+5. Foi usada a relação real exata quando material?
+6. Renda e patrimônio crescem por pessoa ou unidade de consumo pertinente?
+7. Ativos e obrigações estão compatíveis em moeda, índice e prazo?
+8. Quais cenários de inflação, juros e câmbio foram testados?
+9. Há liquidez suficiente para evitar venda forçada durante choque?
+10. A fase de usufruto incorpora longevidade e sequência de retornos?
+11. A proteção depende de um único ativo ou regime econômico?
+12. Qual evento altera a referência de inflação ou o plano?
+
+## Classificação de Evidências
+
+- **Nível A:** relação matemática entre retorno nominal, inflação e retorno real; aumento de preços superior ao crescimento da renda reduz poder de compra, mantida a cesta.
+- **Nível B:** índices oficiais medem cestas e populações definidas; adequação ao consumo de cada família depende de composição, região e fase de vida.
+- **Nível C:** inflação, câmbio, impostos e retornos futuros exigem cenários e não podem ser previstos com precisão estável.
+- **Nível D:** mensuração de objetivos e resultados em termos reais, líquidos e na moeda pertinente como regra AFF.
+
+## Norma Operacional AFF-CM-022
+
+> **Todo objetivo material de longo prazo e todo resultado patrimonial serão avaliados em termos reais, líquidos de tributos e custos, na moeda e pelo índice compatíveis com a obrigação familiar. O registro declarará período, data-base, tratamento dos fluxos e método de retorno; conversões cambiais precederão a deflação e não serão contadas duas vezes. Projeções registrarão cenários de inflação e, quando pertinente, câmbio e cesta familiar. Crescimento nominal isolado não provará preservação do poder de compra.**
+
+## Referências
+
+- FISHER, Irving. *The Theory of Interest*. New York: Macmillan, 1930.
+- INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. “Inflação”. Definições de IPCA, INPC, cesta e inflação pessoal. [Página oficial](https://www.ibge.gov.br/explica/inflacao.php). Consulta em 22 jul. 2026.
+- MODIGLIANI, Franco; BRUMBERG, Richard. “Utility Analysis and the Consumption Function: An Interpretation of Cross-Section Data”. In: KURIHARA, Kenneth K. (org.). *Post-Keynesian Economics*. New Brunswick: Rutgers University Press, 1954, p. 388–436.
+- CFA INSTITUTE. *Global Investment Performance Standards — Handbook for Asset Owners*. Referência técnica para retornos ponderados pelo tempo e pelo dinheiro e tratamento de fluxos. [Manual](https://www.gipsstandards.org/standards/gips-standards-for-asset-owners/gips-standards-handbook-for-asset-owners/). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 25º — Da Compra Inteligente
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o acervo contém critérios dispersos sobre qualidade, valor intrínseco, margem de segurança, preço e adequação patrimonial. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF somente comprará ativo compreendido, aprovado nos critérios de qualidade e risco aplicáveis à sua classe, negociado dentro de preço-limite coerente com faixa conservadora de valor ou de condição econômica de entrada equivalente e adequado aos objetivos, à liquidez e aos limites patrimoniais da família. A compra será decidida por tese e valor esperado, nunca apenas por queda de cotação, rendimento anunciado, popularidade ou receio de perder uma alta.**
+
+## Comentário Técnico
+
+Uma boa empresa pode ser mau investimento quando o preço exige resultado improvável. Um ativo barato pode continuar inadequado quando qualidade, governança, dívida, liquidez ou compreensão são insuficientes. Compra inteligente integra empresa, preço e carteira numa única decisão.
+
+O ato de comprar cria exposição nova. Por isso, o ônus de demonstrar atratividade pertence à proposta de entrada; ausência de razão para rejeitar não equivale a razão para comprar.
+
+O núcleo deste artigo aplica-se a todas as classes admitidas pela política patrimonial: compreensão, evidência, risco, valor ou condição econômica de entrada, tamanho, liquidez, custos, tese e invalidação. Para participações societárias, incidem governança, caixa, crescimento e dívida. Para títulos, fundos, imóveis, caixa e outras classes, esses filtros serão substituídos pelos módulos próprios de emissor, contrato, garantia, gestão, indexação, duração, liquidez e demais riscos pertinentes.
+
+Compra ou venda será material quando puder alterar objetivo, obrigação, limite, liquidez ou risco agregado, ou ultrapassar o valor ou percentual definido previamente na política patrimonial. Na ausência de limiar aprovado, qualquer operação capaz de produzir um desses efeitos será tratada como material; não haverá percentual universal presumido.
+
+## Condições Anteriores à Compra
+
+Antes da ordem, o AFF confirmará:
+
+1. objetivo patrimonial atendido;
+2. enquadramento no círculo de competência;
+3. análise baseada em evidências concluída;
+4. critérios obrigatórios da classe aprovados, incluindo qualidade, governança, caixa, crescimento e dívida para participações societárias, quando aplicáveis;
+5. faixa conservadora de valor e preço-limite ou condição econômica de entrada equivalente e pertinente à classe;
+6. cenário adverso e perda permanente plausível;
+7. tamanho inicial e exposição agregada;
+8. liquidez familiar preservada;
+9. custos, tributos e condições de execução;
+10. tese, riscos e eventos de invalidação registrados.
+
+Falha em critério obrigatório não será compensada por dividendo elevado, múltiplo baixo ou narrativa de crescimento.
+
+## Preço, Valor e Retorno Esperado
+
+A compra será avaliada pelo retorno esperado em cenários ponderados, sem tratar probabilidades estimadas como frequências exatas. O preço-limite ou parâmetro equivalente — como taxa, *yield*, *spread*, indexador, prêmio ou desconto — deverá oferecer proteção proporcional à incerteza e ao risco de perda permanente.
+
+O AFF comparará a oportunidade com:
+
+- alternativas aprovadas;
+- redução de dívida ou formação de reserva da família;
+- manutenção temporária de liquidez;
+- efeito sobre concentração e fatores de risco;
+- retorno real requerido pelo objetivo.
+
+Não comprar será decisão válida quando nenhuma alternativa superar os critérios. Caixa temporário não será interpretado como obrigação de agir.
+
+## Dimensionamento e Compra em Etapas
+
+O tamanho decorrerá do risco, da confiança, da liquidez, da correlação econômica e do impacto de erro, e não apenas do potencial de alta. Limites por emissor, setor, classe, moeda e fator serão verificados antes da execução.
+
+Compra em etapas poderá reduzir risco de execução e permitir atualização de evidências, mas não corrigirá tese fraca ou preço inadequado. Cada parcela será nova decisão. Aumentar posição após queda exigirá reaprovação da tese, do valor e da exposição; o preço médio anterior não será justificativa.
+
+## Execução
+
+A ordem distinguirá urgência, liquidez e controle de preço. Ordem limitada controla o preço máximo de compra, mas pode não ser executada; ordem a mercado prioriza execução, sem garantir preço. O AFF escolherá o instrumento coerente com liquidez, spread, volatilidade e materialidade, evitando fracionamento ou urgência que acrescente custo sem benefício.
+
+Informações sobre tributação, liquidação, custódia, restrições e horário serão verificadas conforme mercado e legislação vigentes.
+
+## Motivos que Não Bastam
+
+Não constituirão fundamento suficiente:
+
+- preço caiu muito ou está abaixo do preço de outra época;
+- empresa anunciou dividendo ou recompra;
+- ativo entrou em índice, relatório, rede social ou carteira de terceiro;
+- múltiplo isolado parece baixo;
+- administração apresentou projeção otimista;
+- investidor teme ficar de fora;
+- posição atual é pequena ou houve ganho recente em outro ativo.
+
+Esses fatos poderão iniciar análise, nunca substituí-la.
+
+## Registro Pré-Compra
+
+O memorando de compra conterá, no mínimo:
+
+- tese em linguagem verificável;
+- fontes e data-base;
+- faixa de valor e preço-limite ou condição econômica de entrada equivalente;
+- cenários e retorno real esperado;
+- riscos, argumento contrário e invalidação;
+- tamanho inicial, máximo e exposição agregada;
+- papel na carteira;
+- plano de acompanhamento;
+- forma de execução e custos relevantes.
+
+## Critérios Operacionais
+
+1. O ativo está dentro do círculo de competência?
+2. Qual objetivo e papel de carteira justificam a compra?
+3. Qualidade e riscos passaram pelos filtros obrigatórios?
+4. Qual é a faixa de valor e o preço-limite ou a condição econômica de entrada equivalente?
+5. O cenário adverso é suportável pela família?
+6. O retorno real esperado supera alternativas comparáveis?
+7. O tamanho reflete confiança e impacto do erro?
+8. A compra viola limite de concentração ou liquidez?
+9. O argumento contrário mais forte foi registrado?
+10. Quais fatos invalidarão ou reduzirão a tese?
+11. A ordem é adequada à liquidez e ao controle de preço?
+12. A mesma compra seria aprovada se a família ainda não possuísse o ativo?
+
+## Classificação de Evidências
+
+- **Nível A:** com quantidade, preço de entrada e saída ou valor terminal, fluxos datados, custos, tributos, câmbio e método fixados quando aplicáveis, o retorno realizado decorre aritmeticamente desses elementos.
+- **Nível B:** faixas de valor, probabilidades, vantagens competitivas e retornos esperados dependem de estimativas e contexto.
+- **Nível C:** previsões de curto prazo e narrativas de mercado oferecem capacidade limitada e instável para justificar entrada isoladamente.
+- **Nível D:** memorando prévio, condição econômica de entrada, adequação patrimonial e reaprovação de cada aporte como disciplina AFF.
+
+## Norma Operacional AFF-CM-023
+
+> **Nenhuma compra material será executada sem memorando prévio contendo tese verificável, evidências, faixa conservadora de valor e preço-limite ou condição econômica de entrada equivalente e pertinente à classe, cenário adverso, retorno real esperado, eventos de invalidação, tamanho e exposição agregada, adequação à liquidez familiar e plano de execução. Queda de preço, rendimento anunciado, múltiplo isolado ou aprovação de terceiro não substituirão esses requisitos; aumento de posição exigirá nova aprovação.**
+
+## Referências
+
+- GRAHAM, Benjamin. *The Intelligent Investor*. Revised ed. Commentary by Jason Zweig. New York: HarperBusiness, 2006, cap. 8 e 20.
+- BERKSHIRE HATHAWAY INC. “Chairman’s Letter — 1992”. Discussão sobre valor intrínseco e estimativas imprecisas. [Carta](https://www.berkshirehathaway.com/letters/1992.html).
+- DAMODARAN, Aswath. *Investment Valuation*. 3. ed. Hoboken: Wiley, 2012.
+- U.S. SECURITIES AND EXCHANGE COMMISSION. “Trading Basics”. *Investor Bulletin*. [Documento](https://www.sec.gov/file/trading101basicspdf). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 26º — Da Venda Inteligente
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o acervo contém referências dispersas à preservação da tese, perda permanente, disciplina, necessidade familiar e revisão de decisões. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF venderá quando fatos novos reduzirem materialmente o valor ou invalidarem a tese, quando critérios obrigatórios da classe deixarem de ser satisfeitos, quando a exposição violar a política patrimonial, quando o preço exceder a faixa prudencial de valor em comparação com as alternativas depois de custos e tributos ou quando obrigação familiar legítima exigir liquidez. Alta, queda, lucro ou prejuízo acumulado, isoladamente, não determinarão a venda.**
+
+## Comentário Técnico
+
+Comprar e vender são partes do mesmo processo de alocação. A venda inteligente pergunta se manter o ativo, ao preço atual e com as informações atuais, continua sendo o melhor uso daquele capital dentro da política familiar.
+
+O preço de aquisição é relevante para tributos e avaliação do processo, mas não determina o valor futuro. Recusar venda para evitar reconhecer erro ou realizar rapidamente ganho para proteger sensação de acerto são manifestações do efeito disposição documentado na literatura.
+
+O núcleo deste artigo aplica-se a todas as classes da política patrimonial. Qualidade empresarial, governança, caixa e dívida incidem sobre participações societárias; em outras classes, serão examinados os critérios correspondentes de emissor, contrato, garantia, gestor, duração, indexação, liquidez e risco. A definição de materialidade será a estabelecida no Artigo 25º.
+
+## Motivos Fundamentais de Venda
+
+A venda total ou parcial poderá ser justificada por:
+
+1. **invalidação da tese:** mecanismo central deixou de existir ou premissa decisiva tornou-se falsa;
+2. **deterioração de qualidade:** vantagem competitiva, retorno incremental, caixa ou capacidade operacional enfraqueceram de modo estrutural;
+3. **integridade ou governança:** fraude, abuso, informação não confiável ou conflito material rompeu requisito obrigatório;
+4. **risco financeiro:** dívida, liquidez, covenants ou refinanciamento elevaram a perda permanente além do aceitável;
+5. **preço e alternativa:** preço ultrapassou a banda de venda documentada e existe uso superior do capital depois de risco, custo e tributo;
+6. **política patrimonial:** concentração, classe, moeda, fator ou liquidez ultrapassou limite;
+7. **objetivo familiar:** obrigação planejada ou emergência legítima exige recursos;
+8. **restrição legal ou operacional:** custódia, regulação, tributação ou acesso tornou a posição inadequada.
+
+Mudança de dividendo será analisada pela causa. Corte prudente para preservar continuidade pode ser racional; manutenção financiada por dívida pode ser negativa. Nenhum dos dois eventos determinará venda automática.
+
+## Venda Total, Parcial ou Manutenção
+
+Venda total será preferida quando houver bloqueio de integridade, tese destruída ou risco incompatível sem compensação plausível. Venda parcial poderá ajustar concentração, executar banda de venda previamente documentada, financiar objetivo ou reduzir risco enquanto permanece incerteza resolvível.
+
+Manutenção será legítima quando tese, qualidade, preço relativo e adequação permanecerem satisfatórios, mesmo após queda. Paciência não será confundida com negação: fatos contrários exigirão atualização documentada.
+
+## Preço, Valor e Custo de Oportunidade
+
+Sobreavaliação não será reduzida a múltiplo alto. O AFF reestimará faixa de valor, cenários, tributos, custos e qualidade das alternativas. Empresa excepcional poderá merecer prêmio; nenhum prêmio será infinito.
+
+Em toda decisão material de manutenção, redução ou saída, a comparação considerará:
+
+- retorno real esperado de manter e substituir;
+- diferença de risco e confiança;
+- custo tributário e de transação;
+- perda de diversificação ou liquidez;
+- probabilidade de erro em ambas as teses.
+
+Girar a carteira por diferença estimada que não supere a banda mínima definida no memorando, depois de custos e tributos, será evitado. Quanto maior a incerteza e o custo, mais ampla deverá ser essa banda.
+
+## Gatilhos e Revisão
+
+O memorando de compra definirá eventos de invalidação e revisão. Gatilhos automáticos de preço poderão auxiliar controle de execução, mas não substituirão análise fundamental quando houver tempo e liquidez para decidir.
+
+Fato material exigirá revisão extraordinária. O AFF verificará fonte, mecanismo, duração, impacto sobre valor e possibilidade de resposta da empresa. Rumor ou oscilação intradiária não receberá o mesmo peso de demonstração, fato regulatório ou mudança contratual confirmada.
+
+## Execução e Obrigações Familiares
+
+Antes da ordem, serão avaliados liquidez, spread, profundidade, urgência, lote, tributos, compensação de perdas permitida pela lei e risco de concentração da execução. A consideração tributária poderá alterar tempo e forma, mas não justificará manter ativo reprovado quando o risco de perda adicional for material.
+
+Necessidade familiar planejada deverá ser financiada por reservas e cronograma coerentes, reduzindo dependência de venda em mercado adverso. Em emergência, a preservação da família terá precedência, e a escolha dos ativos buscará menor dano patrimonial total.
+
+## Motivos que Não Bastam
+
+Não constituirão fundamento suficiente:
+
+- cotação caiu abaixo do preço de compra;
+- cotação subiu e há receio de “devolver” lucro;
+- posição está há muito tempo na carteira;
+- analista deseja encerrar desconforto ou confirmar acerto;
+- dividendo foi alterado sem análise da causa;
+- manchete, rumor ou recomendação de terceiro;
+- ativo atingiu preço redondo ou retorno arbitrário;
+- prejuízo já é grande demais para ser reconhecido.
+
+## Registro Pré-Venda
+
+O memorando de venda conterá:
+
+- fato ou necessidade que iniciou a revisão;
+- tese original e estado atual;
+- evidências favoráveis e contrárias;
+- faixa de valor atualizada;
+- motivo normativo da venda;
+- comparação entre manter, reduzir e sair;
+- custos, tributos e alternativa de destino;
+- quantidade, método e prazo de execução;
+- consequência para riscos e objetivos da carteira;
+- lições sobre a decisão anterior, sem julgamento apenas pelo resultado.
+
+## Critérios Operacionais
+
+1. Qual fato, limite ou objetivo justifica revisar a posição?
+2. A tese foi invalidada ou apenas o preço mudou?
+3. A deterioração é temporária, cíclica ou estrutural?
+4. Integridade, governança ou solvência criam bloqueio?
+5. Qual é a faixa de valor atualizada?
+6. Manter continua superior às alternativas depois de custos e tributos?
+7. A posição viola limite patrimonial ou necessidade de liquidez?
+8. Venda parcial resolve o problema sem eliminar tese válida?
+9. O preço de compra ou o resultado acumulado está ancorando a decisão?
+10. Qual será o destino do recurso?
+11. A execução é compatível com liquidez e urgência?
+12. Que lição de processo deverá ser registrada depois da decisão?
+
+## Classificação de Evidências
+
+- **Nível A:** custos, tributos, preço de venda e fluxos recebidos integram o retorno realizado; manter e vender são alternativas econômicas excludentes para a mesma unidade de capital.
+- **Nível B:** o efeito disposição foi observado em registros de investidores, com magnitude e implicações dependentes de amostra, mercado e regime tributário.
+- **Nível C:** estimativas de valor atual, duração da deterioração e superioridade de alternativas permanecem incertas.
+- **Nível D:** revisão por tese, valor, risco, política e objetivo familiar, com memorando anterior à venda, como disciplina AFF.
+
+## Norma Operacional AFF-CM-024
+
+> **Salvo bloqueio de integridade, insolvência plausível ou necessidade familiar urgente, nenhuma venda material será executada sem registro do fato, limite ou objetivo que a justifica; atualização da tese e da faixa de valor; comparação entre manter, reduzir e sair; avaliação de custos, tributos, destino do recurso e efeito patrimonial; e plano de execução. Na exceção, a execução poderá ter prioridade, e o registro será iniciado contemporaneamente, completado no primeiro momento operacionalmente possível e antes de nova decisão material relacionada. Preço de compra, ganho, perda ou oscilação de cotação, isoladamente, não constituirão motivo.**
+
+## Referências
+
+- ODEAN, Terrance. “Are Investors Reluctant to Realize Their Losses?”. *The Journal of Finance*, v. 53, n. 5, p. 1775–1798, 1998. DOI: 10.1111/0022-1082.00072.
+- SHEFRIN, Hersh; STATMAN, Meir. “The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence”. *The Journal of Finance*, v. 40, n. 3, p. 777–790, 1985. DOI: 10.1111/j.1540-6261.1985.tb05002.x.
+- MARKS, Howard. “The Relationship Between Price and Value”. In: *The Most Important Thing Illuminated*. New York: Columbia University Press, 2013, cap. 4.
+- U.S. SECURITIES AND EXCHANGE COMMISSION. “Trading Basics”. *Investor Bulletin*. [Documento](https://www.sec.gov/file/trading101basicspdf). Consulta em 22 jul. 2026.
