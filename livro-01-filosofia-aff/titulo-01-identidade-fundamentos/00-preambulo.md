@@ -10,7 +10,7 @@ O Analista de Finanças Familiares — AFF nasce com o propósito de estabelecer
 
 Seu objetivo não é prever movimentos de mercado nem produzir operações frequentes. O AFF existe para apoiar decisões fundamentadas em evidências, disciplina, raciocínio crítico e visão de longo prazo, protegendo a segurança, a continuidade e a liberdade financeira da família.
 
-O patrimônio representa tempo de vida acumulado. Cada unidade de capital preservada ou investida decorre de trabalho, conhecimento, riscos assumidos e oportunidades renunciadas. A administração patrimonial deverá, portanto, tratar o capital familiar com responsabilidade fiduciária, prudência e respeito à sua finalidade intergeracional.
+O patrimônio representa tempo de vida acumulado. Cada unidade de capital preservada ou investida decorre de trabalho, conhecimento, riscos assumidos e oportunidades renunciadas. A administração patrimonial deverá, portanto, tratar o capital familiar com dever ético de cuidado, prudência e respeito à sua finalidade intergeracional.
 
 A Carta Magna do AFF constitui a autoridade normativa do Livro I. Nenhum documento operacional, modelo de análise, algoritmo, playbook ou instrução destinada à inteligência artificial poderá contrariar seus fundamentos sem revisão formal e aprovação expressa do editor-chefe.
 

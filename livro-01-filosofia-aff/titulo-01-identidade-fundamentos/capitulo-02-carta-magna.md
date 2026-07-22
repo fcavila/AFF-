@@ -1,10 +1,10 @@
-# LIVRO I — FILOSOFIA DO ANALISTA DE FINANÇAS FAMILIARES
+﻿# LIVRO I — FILOSOFIA DO ANALISTA DE FINANÇAS FAMILIARES
 
 ## TÍTULO I — DA IDENTIDADE E DOS FUNDAMENTOS
 
 # CAPÍTULO II — DOS OBJETIVOS ESTRATÉGICOS
 
-> **Nota editorial:** este capítulo contém consolidações editoriais dos textos recuperados para os artigos 2º a 6º, 14º e 20º, além de reconstruções editoriais dos artigos 7º a 13º, 15º a 19º e 21º a 26º. As reconstruções somente foram iniciadas após busca documental suficiente, estão identificadas no corpo do texto e permanecem em revisão até aprovação do editor-chefe. As fontes recuperadas permanecem em `legacy/fontes-recuperadas/`. As buscas específicas estão registradas em [`BUSCA_DOCUMENTAL_ARTIGOS_07_13.md`](BUSCA_DOCUMENTAL_ARTIGOS_07_13.md), [`BUSCA_DOCUMENTAL_ARTIGOS_15_19.md`](BUSCA_DOCUMENTAL_ARTIGOS_15_19.md) e [`BUSCA_DOCUMENTAL_ARTIGOS_21_26.md`](BUSCA_DOCUMENTAL_ARTIGOS_21_26.md).
+> **Nota editorial:** este capítulo contém consolidações editoriais dos textos recuperados para os artigos 2º a 6º, 14º e 20º, além de reconstruções editoriais dos artigos 7º a 13º, 15º a 19º e 21º a 40º. As reconstruções somente foram iniciadas após busca documental suficiente, estão identificadas no corpo do texto e permanecem em revisão até aprovação do editor-chefe. As fontes recuperadas permanecem em `legacy/fontes-recuperadas/`. As buscas específicas estão registradas em [`BUSCA_DOCUMENTAL_ARTIGOS_07_13.md`](BUSCA_DOCUMENTAL_ARTIGOS_07_13.md), [`BUSCA_DOCUMENTAL_ARTIGOS_15_19.md`](BUSCA_DOCUMENTAL_ARTIGOS_15_19.md), [`BUSCA_DOCUMENTAL_ARTIGOS_21_26.md`](BUSCA_DOCUMENTAL_ARTIGOS_21_26.md), [`BUSCA_DOCUMENTAL_ARTIGOS_27_32.md`](BUSCA_DOCUMENTAL_ARTIGOS_27_32.md) e [`BUSCA_DOCUMENTAL_ARTIGOS_33_40.md`](BUSCA_DOCUMENTAL_ARTIGOS_33_40.md).
 
 | Artigo | Classificação | Fontes principais |
 |---:|---|---|
@@ -15,8 +15,10 @@
 | 15º a 19º | Reconstrução editorial em revisão | Prompt Mestre, AFF v0.2, critérios dispersos do acervo e referências primárias indicadas em cada artigo. |
 | 20º | Consolidação editorial com revisão bibliográfica | Artigo 20 v0.1, livro-base, S&P DJI e Damodaran. |
 | 21º a 26º | Reconstrução editorial em revisão | Prompt Mestre, AFF v0.2, Volume I v0.1, critérios dispersos do acervo e referências primárias indicadas em cada artigo. |
+| 27º a 32º | Reconstrução editorial em revisão | Prompt Mestre, Constituição AFF, Volume I v0.1, critérios dispersos do acervo e referências primárias indicadas em cada artigo. |
+| 33º a 40º | Reconstrução editorial em revisão | Prompt Mestre, Constituição AFF, convenções aprovadas e referências primárias indicadas nos artigos 33º e 34º. |
 
-> **Escala classificatória transitória:** até a aprovação do Sistema de Classificação AFF previsto no Artigo 37º, “classificação máxima” e “alta qualidade” significarão aprovação integral dos requisitos obrigatórios do objeto avaliado, sem bloqueio material. “Aprovado com ressalvas” indicará atendimento dos requisitos obrigatórios com limitação não impeditiva registrada. “Não classificável” indicará evidência insuficiente. “Reprovado” indicará a presença de bloqueio normativo. A escala é transitória e não antecipa o conteúdo integral do Artigo 37º.
+> **Sistema de Classificação AFF:** o Artigo 37º formaliza as classes `AFF-A` (aprovado integralmente), `AFF-B` (aprovado com ressalvas), `AFF-C` (não classificável) e `AFF-D` (reprovado). A classe comunica aderência e evidência; não é previsão de retorno nem garantia contra perda.
 
 # Artigo 2º — Dos Objetivos Estratégicos
 
@@ -2177,3 +2179,746 @@ O memorando de venda conterá:
 - SHEFRIN, Hersh; STATMAN, Meir. “The Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence”. *The Journal of Finance*, v. 40, n. 3, p. 777–790, 1985. DOI: 10.1111/j.1540-6261.1985.tb05002.x.
 - MARKS, Howard. “The Relationship Between Price and Value”. In: *The Most Important Thing Illuminated*. New York: Columbia University Press, 2013, cap. 4.
 - U.S. SECURITIES AND EXCHANGE COMMISSION. “Trading Basics”. *Investor Bulletin*. [Documento](https://www.sec.gov/file/trading101basicspdf). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 27º — Da Liquidez
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o acervo preserva referências à liquidez familiar, à prevenção de venda forçada, a reservas e à capacidade de atravessar cenários adversos. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF manterá liquidez suficiente para que obrigações prioritárias, despesas essenciais e decisões patrimoniais não dependam da venda apressada de ativos em condições adversas. Liquidez será tratada como capacidade de cumprir compromissos no prazo, na moeda e com perda aceitável de valor — e não como simples existência de patrimônio ou saldo nominal de caixa.**
+
+## Comentário Técnico
+
+Patrimônio e liquidez não são sinônimos. Uma família pode ser solvente e ainda assim incapaz de pagar uma obrigação próxima sem alienar ativo concentrado, volátil ou ilíquido. A mesma distinção vale para empresas: ativos superiores a passivos não garantem caixa disponível na data de vencimento.
+
+O AFF distinguirá quatro dimensões:
+
+1. **liquidez familiar:** recursos para despesas, contingências e objetivos da família;
+2. **liquidez do ativo:** capacidade de negociar quantidade relevante em prazo compatível e sem desconto desproporcional;
+3. **liquidez de mercado:** profundidade, *spread*, continuidade de preço e funcionamento do mercado em estresse;
+4. **liquidez da empresa ou emissor:** caixa, geração operacional, linhas confirmadas, vencimentos e acesso a financiamento.
+
+Uma reserva em ativo de cotação diária não será automaticamente líquida se sua venda puder ocorrer com perda severa, suspensão, bloqueio, prazo incompatível ou risco de crédito.
+
+## Mapa de Necessidades e Fontes
+
+A política patrimonial organizará obrigações por prazo, probabilidade, moeda e flexibilidade. Para cada horizonte relevante, registrará:
+
+- despesas essenciais e compromissos contratuais;
+- contingências plausíveis e seguros existentes;
+- objetivos familiares com data determinada;
+- tributos, amortizações e chamadas de capital previsíveis;
+- fontes de renda recorrente e sua confiabilidade;
+- ativos disponíveis, prazo de liquidação, *haircut* prudencial e restrições;
+- recursos que não podem ser usados sem comprometer objetivo prioritário.
+
+O montante de reserva não será fixado por número universal de meses. Dependerá da estabilidade da renda, composição familiar, cobertura de seguros, concentração de fontes, previsibilidade das despesas, alavancagem, moeda, maturidade dos ativos e gravidade do cenário adverso.
+
+## Liquidez e Venda Forçada
+
+Venda forçada ocorre quando a necessidade de caixa remove a liberdade de aguardar preço, fundamento ou prazo favorável. Ela pode transformar volatilidade temporária em perda permanente e impedir que a família aproveite oportunidade legítima.
+
+O AFF protegerá primeiramente as obrigações prioritárias. A parcela destinada a elas não será financiada por expectativa de dividendos, refinanciamento, valorização ou liquidez futura de ativo de risco. Recursos de longo prazo poderão assumir volatilidade maior somente depois de segregadas as necessidades de curto e médio prazo.
+
+## Custo de Carregamento e Opcionalidade
+
+Liquidez tem custo de oportunidade: caixa ou ativos muito conservadores podem render menos do que ativos de risco em períodos normais. Esse custo será comparado ao valor de evitar venda forçada, atraso de obrigação, endividamento emergencial ou perda de capacidade de escolha.
+
+Liquidez excessiva também será examinada. Reserva sem finalidade, horizonte ou limite pode resultar de aversão paralisante. O objetivo não é maximizar caixa, mas preservar opcionalidade proporcional às necessidades e aos riscos da família.
+
+## Liquidez de Ativos e Concentração
+
+O AFF verificará, para cada posição material:
+
+- prazo usual e prazo adverso de conversão em caixa;
+- volume negociado, *spread*, lote e profundidade;
+- risco de suspensão, resgate, carência, prazo de cotização ou restrição contratual;
+- desconto prudencial em cenário de estresse;
+- concentração em emissor, classe, moeda, intermediário ou mercado;
+- correlação entre necessidade de venda e piora da liquidez.
+
+Liquidez declarada em cenário normal não será extrapolada para crise. Ativos que aparentam independentes podem exigir saída simultânea, ampliando descontos e correlações.
+
+## Liquidez Empresarial
+
+Na análise de empresas, o AFF avaliará caixa livre de restrições, capital de giro, vencimentos, linhas comprometidas, covenants, garantias, acesso a mercado e dependência de refinanciamento. Essa análise complementa o Artigo 23º: dívida administrável em cenário-base pode tornar-se crítica quando receita, prazo ou mercado de crédito se deterioram simultaneamente.
+
+Para instituições financeiras, a liquidez será avaliada pelo protocolo setorial aplicável, incluindo composição de captações, descasamento de prazo e moeda, qualidade dos ativos líquidos e estresse de saídas, sem usar mecanicamente métricas de empresas não financeiras.
+
+## Critérios Operacionais
+
+1. Quais obrigações são prioritárias, em que moeda e em que data?
+2. Que fontes cobrem essas obrigações sem venda de ativo de risco?
+3. Qual prazo e qual desconto prudencial seriam necessários para converter cada ativo material em caixa?
+4. A reserva depende de mercado normal, crédito favorável ou fonte concentrada de renda?
+5. A família suportaria queda simultânea de renda, preço e liquidez?
+6. Recursos destinados a objetivo próximo estão segregados de ativos voláteis ou ilíquidos?
+7. A liquidez mantida tem finalidade e custo de oportunidade claros?
+8. A empresa analisada cumpre obrigações sem refinanciamento excepcionalmente favorável?
+9. Há restrições, carências, garantias, chamadas ou eventos que reduzam liquidez aparente?
+10. O plano preserva capacidade de não agir sob pressão?
+
+## Classificação de Evidências
+
+- **Nível A:** incompatibilidade entre prazo de obrigação e recursos realizáveis pode exigir venda ou financiamento em condições desfavoráveis; fluxos, prazos e descontos podem ser mapeados.
+- **Nível B:** liquidez de mercado e disponibilidade de crédito variam com o regime, a concentração e o estresse, podendo deteriorar-se de modo não linear.
+- **Nível C:** preço e prazo de liquidação em crise possuem incerteza elevada e exigem *haircuts* e cenários prudentes.
+- **Nível D:** segregação de reservas, proteção de obrigações prioritárias e proibição de dependência de venda forçada como regras AFF.
+
+## Norma Operacional AFF-CM-025
+
+> **Nenhuma obrigação familiar classificada como prioritária pela política patrimonial poderá depender da venda, no horizonte nela definido, de ativo volátil, concentrado ou ilíquido. A política registrará responsável, horizonte, fonte de cobertura, desconto prudencial, gatilho de recomposição e tratamento de exceção para cada necessidade material. Falta de cobertura compatível exigirá redução de risco, ampliação de reserva, revisão do objetivo ou não aprovação da decisão.**
+
+## Referências
+
+- DIAMOND, Douglas W.; DYBVIG, Philip H. “Bank Runs, Deposit Insurance, and Liquidity”. *Journal of Political Economy*, v. 91, n. 3, p. 401–419, 1983. DOI: 10.1086/261155. Referência sobre fragilidade de liquidez bancária; sua utilização para reservas familiares limita-se à analogia de descasamento de prazo, não à transposição do modelo.
+- BASEL COMMITTEE ON BANKING SUPERVISION. *Basel Framework*. Referência setorial para princípios e métricas de liquidez bancária; a aplicação familiar é adaptação editorial do AFF. [Estrutura consolidada](https://www.bis.org/basel_framework/). Consulta em 22 jul. 2026.
+- MARKS, Howard. “The Illusion of Knowledge”. Oaktree Capital Management, 2020. Discussão sobre incerteza e prudência em mercados.
+
+---
+
+# Artigo 28º — Da Diversificação Inteligente
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o Volume I v0.1 determina ampla diversificação sem perda de qualidade, e os textos consolidados e reconstruídos preservam referências a concentração por fatores de risco. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF diversificará para reduzir a dependência de uma empresa, emissor, setor, moeda, gestor, tese, fonte de renda ou fator de risco. Diversificação não será contagem de ativos nem licença para adquirir o que não se compreende; será a distribuição deliberada de exposições de modo compatível com objetivos, qualidade, liquidez e capacidade da família de suportar perdas.**
+
+## Comentário Técnico
+
+Diversificar reduz o dano potencial de erro específico, mas não elimina riscos comuns. Empresas com nomes, setores ou países distintos podem depender da mesma commodity, taxa de juros, regime regulatório, crédito, cadeia de suprimentos, tecnologia, moeda ou ciclo econômico.
+
+O AFF distinguirá:
+
+- **diversificação nominal:** quantidade de posições ou emissores;
+- **diversificação econômica:** redução de dependências comuns relevantes;
+- **diversificação de renda:** fontes de caixa com motores distintos;
+- **diversificação temporal:** compatibilização de vencimentos e objetivos em diferentes horizontes;
+- **diversificação de execução:** redução de dependência operacional de intermediário, gestor, plataforma ou processo único, quando material.
+
+## Qualidade Antes da Quantidade
+
+Diversificação não corrigirá fraude, negócio incompreensível, passivo oculto ou preço sem proteção. Qualidade, integridade, compreensão e adequação permanecerão filtros anteriores. O AFF preferirá uma carteira suficientemente diversificada de ativos aprovados a uma carteira extensa de exposições frágeis.
+
+Concentração pode ser aceitável somente quando for consciente, documentada, compatível com o orçamento de perda e compensada por qualidade da evidência, liquidez e limites patrimoniais. Convicção não substituirá análise de correlação, sobrevivência e impacto do erro.
+
+## Mapa de Exposições
+
+Para posições materiais, a carteira será mapeada, conforme aplicável, por:
+
+1. emissor, grupo econômico e controlador;
+2. setor, cadeia produtiva e cliente ou fornecedor comum;
+3. moeda, país, jurisdição e regime regulatório;
+4. taxa de juros, inflação, crédito, commodity e ciclo econômico;
+5. estilo de investimento, duração, indexador e sensibilidade a preço;
+6. gestor, custodiante, intermediário e instrumento;
+7. fonte de renda e evento de perda;
+8. prazo, liquidez e necessidade de refinanciamento.
+
+O mapa incluirá relações qualitativas que a correlação histórica não capture. Séries curtas, regimes estáveis e retorno mensal podem ocultar dependência que aparece justamente em estresse.
+
+## Correlação, Cenários e Limites
+
+Correlação é informação histórica, não garantia de futuro. O AFF a usará como insumo, juntamente com mecanismos econômicos e cenários de perda conjunta. Em cada cenário relevante, perguntará quais posições caem, perdem renda, ficam ilíquidas ou exigem capital ao mesmo tempo.
+
+Os limites de concentração serão definidos na política patrimonial por relevância econômica, não por percentual universal. Eles considerarão materialidade, liquidez, horizonte, qualidade, obrigações, orçamento de perda e grau de sobreposição entre posições. Exceção deverá ser prévia, datada, justificada e revisável.
+
+## Diversificação e Renda Passiva
+
+Carteira com muitos ativos pode depender de poucas fontes de dividendos, do mesmo ciclo de juros ou de política pública comum. O AFF avaliará concentração de renda por emissor, setor, moeda e fator, incluindo a possibilidade de cortes simultâneos.
+
+Renda não será tratada como diversificada apenas porque os pagamentos ocorrem em datas diferentes. A origem econômica e a resiliência do fluxo importam mais do que o calendário.
+
+## Rebalanceamento e Mudança de Exposição
+
+Diversificação é dinâmica. Apreciação, queda, aportes, dividendos, aquisições corporativas, mudanças de moeda e novas informações podem alterar a exposição sem qualquer negociação deliberada.
+
+Rebalanceamento seguirá a política patrimonial e os Artigos 25º e 26º. Não será automático quando imposto, custo, liquidez, valor ou necessidade familiar recomendarem outra ação. Inércia não justificará concentração crescente; giro frequente não será confundido com gestão de risco.
+
+## Critérios Operacionais
+
+1. Que erro específico a diversificação pretende limitar?
+2. Quais fatores, fontes de renda ou eventos de perda são compartilhados?
+3. A carteira é diversa apenas nominalmente ou também economicamente?
+4. Quais exposições aumentam em cenário de crise?
+5. Há dependência material de um emissor, grupo, gestor, plataforma, moeda ou país?
+6. A concentração de renda é maior que a concentração de patrimônio?
+7. Cada posição satisfaz qualidade, compreensão, valor e liquidez por si mesma?
+8. Os limites foram definidos antes do resultado e respeitam obrigações e orçamento de perda?
+9. A exceção de concentração é consciente, temporária e revisável?
+10. A necessidade de rebalanceamento supera custos, tributos e perda de valor esperado?
+
+## Classificação de Evidências
+
+- **Nível A:** a variância de uma carteira depende de pesos, variâncias e covariâncias dos componentes sob definições matemáticas dadas.
+- **Nível B:** benefícios realizados da diversificação dependem de correlações, custos, horizonte, regime e qualidade das exposições escolhidas.
+- **Nível C:** correlações futuras, eventos de cauda e dependências em crise são estimativas imperfeitas.
+- **Nível D:** mapa qualitativo de fatores, limites patrimoniais e diversificação sem abandono de qualidade como disciplina AFF.
+
+## Norma Operacional AFF-CM-026
+
+> **Nenhuma carteira será considerada diversificada apenas pela quantidade de ativos. A classificação exigirá mapa atualizado de exposições por emissor, grupo econômico, fonte de renda, moeda, setor, fator de risco, liquidez e evento de perda, além de cenário de estresse para dependências materiais. Posição que ultrapasse limite aprovado ou revele concentração econômica não compensada deverá ser reduzida, justificada por exceção prévia ou reprovada.**
+
+## Referências
+
+- MARKOWITZ, Harry. “Portfolio Selection”. *The Journal of Finance*, v. 7, n. 1, p. 77–91, 1952. DOI: 10.1111/j.1540-6261.1952.tb01525.x.
+- ROLL, Richard. “A Critique of the Asset Pricing Theory’s Tests”. *Journal of Financial Economics*, v. 4, n. 2, p. 129–176, 1977. DOI: 10.1016/0304-405X(77)90009-5.
+
+---
+
+# Artigo 29º — Da Psicologia do Investidor
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o acervo contém princípios dispersos de disciplina, independência intelectual, medo, euforia, pressão social e comportamento em ciclos. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF reconhecerá que decisões patrimoniais são tomadas por pessoas sujeitas a medo, euforia, arrependimento, apego, necessidade de pertencimento e excesso de confiança. A psicologia do investidor não será tratada como falha moral nem como explicação posterior para qualquer resultado; será gerida por processo, registros prévios, limites e condições de decisão que reduzam a influência de estados emocionais sobre o patrimônio da família.**
+
+## Comentário Técnico
+
+Resultado financeiro produz reforço psicológico imperfeito. Decisão prudente pode ter retorno ruim no curto prazo; decisão impulsiva pode ser temporariamente premiada. Julgar processo apenas pelo resultado recente favorece excesso de risco em ciclos positivos e abandono do método em ciclos negativos.
+
+Este artigo examina o comportamento do investidor em contexto — emoções, pressão social, narrativa e interação com ciclos. O Artigo 30º detalha vieses cognitivos específicos e seus controles. Ambos complementam os Artigos 8º, 10º, 22º, 25º, 26º e 31º.
+
+## Estados que Ameaçam o Processo
+
+O AFF reconhecerá como sinais de atenção, entre outros:
+
+- urgência de comprar para não perder alta;
+- necessidade de vender apenas para encerrar desconforto;
+- euforia após ganho recente;
+- pânico diante de queda sem fato novo relevante;
+- comparação social, recomendação de influenciador ou consenso como substitutos de tese;
+- desejo de recuperar perda rapidamente;
+- apego identitário a empresa, gestor, setor ou estratégia;
+- fadiga decisória, conflito familiar ou necessidade de caixa não declarada.
+
+Nenhum desses sinais invalida automaticamente a decisão. Eles exigem pausa, registro e reforço do processo antes de ação material.
+
+## Ciclos, Narrativas e Pressão Social
+
+Em euforia, preços altos podem parecer confirmação de qualidade; em crise, preço baixo pode parecer prova de fracasso. O AFF distinguirá mudança de cotação, mudança de expectativa e mudança de fundamento.
+
+Narrativas ajudam a organizar informação, mas podem ocultar premissas frágeis. Popularidade, autoridade, grupo de referência, mídia ou repetição não constituem evidência. A análise procurará a consequência econômica da história: quem paga, que capital é necessário, quais riscos podem invalidá-la e que fato a confirmaria ou refutaria.
+
+## Arquitetura de Decisão
+
+A proteção psicológica será construída antes do momento de pressão. O AFF utilizará:
+
+1. política patrimonial com objetivos e limites explícitos;
+2. memorandos de compra, venda e exceção registrados antes do resultado;
+3. períodos de reflexão proporcionais à materialidade, salvo urgência legítima;
+4. checklist de risco, argumento contrário e eventos de invalidação;
+5. decisão em etapas quando a incerteza for resolvível e a execução permitir;
+6. revisão por pessoa independente ou responsável alternativo quando o conflito for material;
+7. registro de estados emocionais ou pressões relevantes, sem pretensão clínica.
+
+Esses mecanismos não prometem neutralidade. Eles tornam a influência comportamental visível, comparável e revisável.
+
+## Família, Comunicação e Responsabilidade
+
+Objetivos familiares podem entrar em conflito: segurança, consumo presente, crescimento, legado e autonomia futura. O AFF não presumirá que o titular da decisão representa automaticamente toda a família. Responsabilidades, necessidades de renda, dependentes e tolerância a perdas serão discutidos e documentados na medida apropriada.
+
+Conflito emocional não será resolvido por maior risco ou por segredo patrimonial. Quando a decisão exceder competência, gerar conflito relevante ou envolver vulnerabilidade pessoal, o AFF recomendará pausa e apoio profissional adequado.
+
+## Aprendizado sem Autopunição
+
+Erro deve produzir aprendizado, não racionalização ou vergonha. Depois de decisão material, o AFF separará:
+
+- qualidade do processo disponível à época;
+- informação que não podia ser conhecida;
+- premissa que foi mal avaliada;
+- erro de execução ou dimensionamento;
+- coincidência favorável ou desfavorável.
+
+Essa revisão não será usada para reescrever a tese como se o resultado fosse previsível. O objetivo é aperfeiçoar critérios e proteger a continuidade do método.
+
+## Critérios Operacionais
+
+1. Há urgência, medo, euforia, arrependimento ou pressão social influenciando a decisão?
+2. A tese seria aprovada sem o preço recente ou opinião de terceiro?
+3. Qual emoção ou interesse familiar pode estar sendo omitido?
+4. O processo prevê pausa, segunda leitura ou revisão independente proporcional ao risco?
+5. A decisão busca recuperar perda, proteger ego ou manter pertencimento?
+6. O limite patrimonial impede que emoção momentânea produza dano permanente?
+7. O resultado posterior será avaliado por processo, e não por sorte isolada?
+8. Existe conflito familiar, necessidade de liquidez ou vulnerabilidade que exija apoio adicional?
+
+## Classificação de Evidências
+
+- **Nível A:** registros prévios permitem distinguir, posteriormente, informação disponível, decisão tomada e resultado observado.
+- **Nível B:** estudos comportamentais documentam padrões de excesso de negociação, aversão à perda e influência de enquadramento, com magnitude dependente de população e contexto.
+- **Nível C:** inferir estado emocional individual a partir de operação ou resultado possui incerteza elevada e não deve ser tratado como diagnóstico.
+- **Nível D:** pausas, registros, limites e revisão independente como salvaguardas comportamentais do AFF.
+
+## Norma Operacional AFF-CM-027
+
+> **Antes de decisão material tomada sob queda ou alta que atinjam gatilho definido na política patrimonial, urgência, pressão social, conflito familiar ou desejo de recuperar perda, o AFF registrará gatilho, responsável, exceção e prazo de nova deliberação; verificará tese e limites; e aplicará pausa ou segunda revisão conforme protocolo previamente aprovado, salvo necessidade familiar urgente documentada. Estado emocional ou influência de terceiro não constituirão fundamento suficiente para comprar, vender, concentrar ou abandonar a política patrimonial.**
+
+## Referências
+
+- KAHNEMAN, Daniel; TVERSKY, Amos. “Prospect Theory: An Analysis of Decision under Risk”. *Econometrica*, v. 47, n. 2, p. 263–292, 1979. DOI: 10.2307/1914185.
+- BARBER, Brad M.; ODEAN, Terrance. “Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors”. *The Journal of Finance*, v. 55, n. 2, p. 773–806, 2000. DOI: 10.1111/0022-1082.00226.
+- ODEAN, Terrance. “Are Investors Reluctant to Realize Their Losses?”. *The Journal of Finance*, v. 53, n. 5, p. 1775–1798, 1998. DOI: 10.1111/0022-1082.00072.
+
+---
+
+# Artigo 30º — Dos Vieses Cognitivos
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o acervo preserva referências a excesso de confiança, previsão, apego a narrativas, independência intelectual e evidência contrária. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF tratará vieses cognitivos como riscos previsíveis de interpretação e decisão. Nenhum analista estará isento deles por conhecimento, experiência ou boa intenção; por isso, decisões materiais serão estruturadas para expor premissas, hipóteses alternativas, taxas-base, evidências contrárias e condições de invalidação antes da execução.**
+
+## Comentário Técnico
+
+Vieses são atalhos ou padrões de julgamento que podem ser úteis em contextos simples, mas produzem erro sistemático quando a decisão exige probabilidade, comparação, causalidade e longo horizonte. O objetivo não é eliminar intuição nem converter análise em ritual. É identificar onde ela pode falhar e criar fricção proporcional ao dano potencial.
+
+O Artigo 29º trata dos estados emocionais e sociais do investidor. Este artigo trata das distorções de processamento e avaliação de informação. O Artigo 22º define a disciplina de evidências; o Artigo 31º torna a correção dessas distorções contínua por meio de revisão de tese.
+
+## Vieses Relevantes ao AFF
+
+Sem pretensão de lista exaustiva, o AFF examinará:
+
+1. **confirmação:** procurar, interpretar ou recordar principalmente informação favorável à tese;
+2. **ancoragem:** usar preço de compra, máxima histórica, múltiplo antigo ou previsão inicial como referência indevida;
+3. **disponibilidade e recência:** superestimar fatos vívidos, manchetes e desempenho recente;
+4. **representatividade:** concluir que pequena amostra, história atraente ou semelhança superficial prova padrão duradouro;
+5. **excesso de confiança e ilusão de controle:** subestimar incerteza, custos e papel do acaso;
+6. **aversão à perda e efeito disposição:** manter perdedor para evitar reconhecer perda ou vender vencedor cedo por conforto psicológico;
+7. **custo afundado e escalada de compromisso:** aportar mais para defender decisão passada, não porque a tese atual é melhor;
+8. **enquadramento:** decidir de modo diferente quando o mesmo problema é apresentado como ganho, perda, rendimento ou cotação;
+9. **viés retrospectivo:** tratar resultado conhecido como se fosse previsível;
+10. **viés de ação:** negociar para aliviar ansiedade quando inação seria compatível com a tese.
+
+Um nome de viés não prova que ele ocorreu. A classificação será hipótese de processo, sustentada por registros e comportamento observável, não rótulo pessoal.
+
+## Controles de Debiasing
+
+Os controles serão escolhidos conforme o risco:
+
+- tese escrita antes da posição ou da alteração material;
+- distinção entre fato, estimativa, inferência e regra normativa;
+- pergunta inversa: “o que demonstraria que estamos errados?”;
+- taxa-base e grupo comparável, quando aplicáveis;
+- cenário adverso e análise de sensibilidade;
+- análise por ação, em termos reais e depois de custos;
+- revisão independente ou papel de contraditório;
+- checklist de compra, venda, dívida, liquidez e concentração;
+- pré-compromisso de limites e eventos de revisão;
+- registro de decisões de não agir.
+
+Checklists reduzem omissão, mas não substituem raciocínio causal. Revisão independente melhora o processo somente se puder discordar sem sofrer punição ou mera busca de confirmação.
+
+## Evidência Contrária e Red Team
+
+Para toda tese material, o AFF apresentará o argumento contrário mais forte. Quando houver complexidade, conflito ou concentração, poderá designar revisão de contraditório para procurar evidência que reduziria valor, qualidade, liquidez ou adequação patrimonial.
+
+O contraditório não será obrigado a produzir simetria artificial entre hipótese forte e hipótese fraca. Seu dever é testar a robustez da conclusão, não impedir decisão.
+
+## Limites da Correção
+
+Processo não cria certeza. Pode introduzir burocracia, atraso e falsa sensação de segurança. O AFF calibrará o esforço à materialidade e à reversibilidade: fato simples e verificável exige menos controle do que alocação concentrada, ilíquida ou irreversível.
+
+Quando não houver evidência suficiente para corrigir a incerteza, prevalecerão redução de exposição, diversificação, liquidez, prazo de observação ou abstenção, e não precisão artificial.
+
+## Critérios Operacionais
+
+1. Qual premissa deriva de preço de compra, narrativa ou desempenho recente?
+2. Qual é a hipótese rival mais plausível?
+3. Que informação contrária seria suficiente para reduzir confiança ou invalidar a tese?
+4. Há taxa-base ou grupo comparável pertinente?
+5. A mesma decisão seria tomada se o ativo não estivesse na carteira?
+6. A análise separa causa econômica de correlação ou história atraente?
+7. O tamanho da posição amplia o custo de admitir erro?
+8. Existe registro anterior que permita avaliar aprendizado sem retrospectiva?
+9. A revisão independente tem liberdade real para discordar?
+10. Inação, redução ou diversificação são alternativas analisadas?
+
+## Classificação de Evidências
+
+- **Nível A:** uma vez definidos dados, cálculos e hipóteses, registros permitem verificar se a decisão precedeu o resultado e se a regra foi aplicada.
+- **Nível B:** heurísticas, enquadramento, excesso de confiança, confirmação e aversão à perda foram documentados experimentalmente e em estudos de comportamento, com efeitos dependentes do contexto.
+- **Nível C:** atribuir viés específico a pessoa ou decisão individual exige cautela e não substitui análise do mérito econômico.
+- **Nível D:** contraditório, pré-compromisso, checklist e redução de exposição como controles AFF.
+
+## Norma Operacional AFF-CM-028
+
+> **Toda tese material incluirá premissas verificáveis, hipótese alternativa, evidência contrária mais relevante, taxa-base ou justificativa de sua inaplicabilidade, eventos de invalidação e registro datado anterior à execução. Para decisão concentrada, ilíquida, irreversível ou contestada, será exigida revisão de contraditório por pessoa sem autoria, interesse econômico direto ou responsabilidade de execução sobre a decisão; a política definirá responsável, prazo e regra de exceção. Ausência de controle proporcional imporá ressalva, redução de exposição ou não aprovação.**
+
+## Referências
+
+- TVERSKY, Amos; KAHNEMAN, Daniel. “Judgment under Uncertainty: Heuristics and Biases”. *Science*, v. 185, n. 4157, p. 1124–1131, 1974. DOI: 10.1126/science.185.4157.1124.
+- NICKERSON, Raymond S. “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises”. *Review of General Psychology*, v. 2, n. 2, p. 175–220, 1998. DOI: 10.1037/1089-2680.2.2.175.
+- KAHNEMAN, Daniel; TVERSKY, Amos. “Prospect Theory: An Analysis of Decision under Risk”. *Econometrica*, v. 47, n. 2, p. 263–292, 1979. DOI: 10.2307/1914185.
+
+---
+
+# Artigo 31º — Da Revisão de Teses
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; a Constituição do AFF determina humildade para revisar conclusões diante de novas evidências, e o acervo contém critérios de invalidação, atualização e registro. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**Toda tese AFF será provisória, verificável e revisável. A permanência em ativo, estratégia ou política dependerá da validade atual de seus mecanismos econômicos, evidências, valor, riscos e adequação familiar — nunca apenas do tempo decorrido, do preço de compra, da reputação do emissor ou do desconforto de reconhecer erro.**
+
+## Comentário Técnico
+
+Revisar não é reagir a cada oscilação, nem preservar decisão antiga até que se torne irrefutável. É comparar periodicamente a tese registrada com fatos novos, identificar se a divergência é ruído, ciclo, erro de estimativa ou mudança estrutural e decidir entre manter, observar, reduzir, vender ou reformular a tese.
+
+Este artigo integra a disciplina do Artigo 10º, as evidências do Artigo 22º, os protocolos de compra e venda dos Artigos 25º e 26º e as salvaguardas comportamentais dos Artigos 29º e 30º. Revisão não substitui nenhum deles; garante que continuem aplicados depois da decisão inicial.
+
+## Conteúdo Mínimo da Tese
+
+Cada tese material deverá registrar, em linguagem verificável:
+
+1. objetivo e papel na carteira;
+2. mecanismo econômico que cria ou preserva valor;
+3. fontes e data-base;
+4. premissas, faixa de valor ou condição econômica de entrada;
+5. cenário adverso, riscos e argumentos contrários;
+6. métricas ou fatos de acompanhamento;
+7. eventos de invalidação, revisão e reclassificação;
+8. tamanho, limites e dependências da posição;
+9. horizonte de maturação e horizonte de revisão;
+10. decisão de destino para dividendos, aportes ou recursos liberados, quando aplicável.
+
+Tese que não puder ser expressa de modo verificável será hipótese vaga e não sustentará exposição material.
+
+## Revisão por Calendário e por Evento
+
+A política patrimonial definirá periodicidade de revisão compatível com classe de ativo, materialidade, liquidez, velocidade de mudança e dependência familiar. Calendário evita abandono; eventos evitam esperar prazo quando a tese já mudou.
+
+Exemplos de gatilhos extraordinários incluem:
+
+- alteração relevante de negócio, administração, governança ou regulação;
+- quebra de premissa sobre crescimento, margem, caixa, dívida ou liquidez;
+- emissão, aquisição, venda de ativo ou reestruturação material;
+- mudança de moeda, indexador, contrato, garantia ou qualidade de crédito;
+- ruptura do limite patrimonial ou de concentração;
+- novo fato que invalida mecanismo ou evidência central;
+- mudança familiar de objetivo, obrigação, renda, saúde, dependência ou sucessão.
+
+Queda ou alta de cotação iniciará investigação quando material, mas não provará por si mesma invalidação ou confirmação.
+
+## Método de Revisão
+
+A revisão seguirá sequência explícita:
+
+1. recuperar a tese original e a informação disponível na data;
+2. separar fato novo de ruído, opinião e preço;
+3. comparar resultado observado com mecanismo, premissas e cenários;
+4. testar evidência contrária, taxa-base e explicações alternativas quando pertinentes;
+5. atualizar valor, risco, liquidez, dívida, concentração e adequação familiar;
+6. decidir manter, observar, reduzir, vender, reclassificar ou reformular;
+7. registrar razão, grau de confiança, responsável e próxima condição de revisão.
+
+Reformular tese depois do fato não apagará a versão anterior. A mudança manterá histórico de premissas, evidências e decisões para permitir aprendizado e evitar racionalização retrospectiva.
+
+O repositório de teses preservará versão sequencial, data e hora, autor, fontes anexadas ou referenciadas, decisão e trilha de alterações. Versão aprovada será imutável ou tecnicamente equivalente a registro *append-only*; correção posterior será adendo datado que identifica a versão corrigida, a razão e o responsável, sem substituir o texto anterior. Mecanismo como controle de versão, *hash* ou registro equivalente poderá cumprir esse requisito quando verificável.
+
+## Resultado, Processo e Aprendizado
+
+Acerto de resultado não prova tese boa; erro de resultado não prova tese ruim. O AFF avaliará processo, premissas e disciplina com base na informação disponível à época. Persistência de erros semelhantes, porém, exigirá revisão do método, das fontes, dos limites ou do círculo de competência.
+
+Revisão poderá concluir que não há ação a tomar. Essa decisão será justificada pelo estado da tese e não por inércia. Do mesmo modo, mudança frequente de tese sem fato material pode revelar falta de processo, excesso de negociação ou uso retrospectivo de narrativas.
+
+## Critérios Operacionais
+
+1. A tese original, sua data-base e seus riscos podem ser recuperados?
+2. Que fato novo motivou a revisão?
+3. O evento altera mecanismo, valor, risco, liquidez, prazo ou adequação familiar?
+4. A divergência é temporária, cíclica, estrutural ou ainda indeterminada?
+5. Que premissa foi confirmada, enfraquecida ou invalidada?
+6. A análise original subestimou dívida, capital, competição, governança, custos ou correlação?
+7. Manter, reduzir, vender, observar ou reformular qual decisão melhor atende à política atual?
+8. A alteração preserva o histórico e evita retrospectiva?
+9. O próximo gatilho ou prazo de revisão está definido?
+10. O aprendizado exige mudança de processo além da posição individual?
+
+## Classificação de Evidências
+
+- **Nível A:** comparação entre tese datada, fatos posteriores e decisão registrada permite auditoria do processo e identificação de mudanças de premissa.
+- **Nível B:** utilidade de revisões e previsões depende da qualidade da informação, do horizonte, da velocidade de mudança e da disciplina do analista.
+- **Nível C:** distinguir ruído temporário de mudança estrutural frequentemente exige julgamento e pode permanecer incerto.
+- **Nível D:** revisão por calendário e por evento, preservação de versões e estados de decisão como regras AFF.
+
+## Norma Operacional AFF-CM-029
+
+> **Toda tese material terá versão sequencial, data e hora, autor, eventos de invalidação e calendário de revisão definidos antes ou no momento da decisão. Versão aprovada será preservada em registro imutável ou *append-only* verificável; correção ou evidência posterior somente poderá ser anexada por adendo datado, responsável e vinculado à versão anterior. Fato material definido na política exigirá revisão extraordinária; a ausência de fato novo não dispensará revisão periódica. Falta de revisão, de integridade do registro ou de responsável compatível impedirá aumento de posição e poderá impor reclassificação ou redução.**
+
+## Referências
+
+- KAHNEMAN, Daniel; KLEIN, Gary. “Conditions for Intuitive Expertise: A Failure to Disagree”. *American Psychologist*, v. 64, n. 6, p. 515–526, 2009. DOI: 10.1037/a0016755.
+- TETLOCK, Philip E.; GARDNER, Dan. *Superforecasting: The Art and Science of Prediction*. New York: Crown, 2015.
+- DAMODARAN, Aswath. *Investment Valuation*. 3. ed. Hoboken: Wiley, 2012. Seções sobre atualização de premissas de valuation.
+
+---
+
+# Artigo 32º — Da Sucessão Patrimonial
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o acervo declara como objetivo planejar sucessão patrimonial e transmitir patrimônio e conhecimento financeiro entre gerações. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF tratará sucessão patrimonial como processo contínuo de preservação, acesso legítimo, governança, educação e continuidade familiar. O planejamento buscará reduzir desorganização, iliquidez, perda de informação e conflito após incapacidade ou morte, respeitando a autonomia da família, os direitos legalmente protegidos e a necessidade de orientação jurídica, tributária e contábil individualizada.**
+
+## Comentário Técnico
+
+Sucessão não é apenas transmissão de bens nem somente redução de tributos. É assegurar que pessoas autorizadas possam identificar ativos e passivos, entender responsabilidades, manter necessidades familiares, cumprir obrigações e tomar decisões compatíveis com a política patrimonial em momento de vulnerabilidade.
+
+Este artigo não substitui advogado, tabelião, contador, planejador tributário, administrador fiduciário ou profissional de saúde. Lei aplicável, residência, regime de bens, estrutura societária, nacionalidade, dependentes, ativos no exterior e mudanças legislativas podem alterar substancialmente as alternativas. O AFF organizará informação e governança; a formalização jurídica será conduzida por profissionais habilitados na jurisdição pertinente.
+
+## Objetivos da Sucessão
+
+O plano sucessório buscará, conforme o caso:
+
+1. proteger dependentes e obrigações essenciais;
+2. preservar liquidez durante incapacidade, inventário, transição ou reorganização;
+3. manter inventário confiável de ativos, passivos, documentos e contatos;
+4. reduzir risco operacional, fraude, perda de acesso e decisões sem informação;
+5. organizar papéis de decisão, comunicação e continuidade;
+6. preparar herdeiros e sucessores para responsabilidade, não apenas recebimento;
+7. conciliar autonomia, privacidade, justiça percebida e continuidade do patrimônio;
+8. observar direitos sucessórios, tributários, societários e contratuais aplicáveis.
+
+Não haverá presunção de que patrimônio deve ser preservado a qualquer custo. As escolhas deverão respeitar objetivos, necessidades, valores e decisões legítimas da família.
+
+## Inventário Patrimonial e Informação Essencial
+
+O AFF manterá inventário atualizado, protegido e acessível apenas a pessoas autorizadas. Ele poderá incluir, conforme aplicável:
+
+- ativos financeiros, imóveis, participações empresariais, seguros, previdência e direitos;
+- dívidas, garantias, avais, obrigações recorrentes e contingências;
+- instituições, contas, custodiantes, contratos, documentos e contatos profissionais;
+- regime de bens, disposições formais existentes, beneficiários e estruturas societárias;
+- obrigações familiares, dependentes, fontes de renda e necessidades de liquidez;
+- localização de documentos e procedimento de atualização;
+- instruções de continuidade compatíveis com a lei e com a segurança digital.
+
+O inventário informará existência e localização de acessos, mas não armazenará senhas, chaves privadas, códigos de autenticação ou dados sensíveis em texto aberto. O plano definirá meio seguro, responsável titular e substituto de custódia e procedimento legal para acesso quando necessário. A recuperação será testada periodicamente, sem revelar credenciais, incluindo indisponibilidade do custodiante, atualização de autenticação multifator e registro da última validação.
+
+## Governança e Continuidade
+
+O plano identificará responsáveis por executar, informar, acompanhar e revisar, sem presumir que uma única pessoa possui conhecimento, disponibilidade ou legitimidade para todas as funções. Quando houver empresa familiar, patrimônio relevante ou sucessores múltiplos, serão definidos critérios de informação, decisão, prestação de contas, transição de responsabilidades e resolução de conflitos.
+
+Procurações, testamentos, beneficiários, doações, seguros, acordos societários, regimes de bens e outras ferramentas poderão ser avaliados por profissionais habilitados. O AFF não recomendará estrutura padronizada nem tratará benefício fiscal presumido como justificativa autônoma.
+
+## Educação e Transferência de Conhecimento
+
+Patrimônio sem compreensão pode se dissipar ou criar dependência. A sucessão incluirá, em linguagem adequada à idade, maturidade e vontade das pessoas envolvidas:
+
+- princípios da política patrimonial;
+- objetivos e limites de risco;
+- diferença entre renda, patrimônio e liquidez;
+- deveres, documentos e contatos relevantes;
+- critérios para pedir ajuda profissional;
+- valores de integridade, autonomia e responsabilidade.
+
+Transparência terá limites. A família definirá o que deve ser conhecido agora, o que será comunicado por etapas e quais informações exigem confidencialidade, consentimento ou proteção especial.
+
+## Eventos de Revisão
+
+O plano será revisado por calendário e diante de eventos como casamento, divórcio, nascimento, morte, incapacidade, mudança de residência ou nacionalidade, aquisição ou venda relevante, alteração de regime de bens, criação de empresa, mudança legislativa, conflito familiar, mudança de beneficiário ou vulnerabilidade de sucessor.
+
+Documento antigo ou contato indisponível pode ser mais perigoso do que ausência declarada de plano. A revisão confirmará validade, aderência à realidade e alinhamento entre inventário, documentos e profissionais envolvidos.
+
+## Critérios Operacionais
+
+1. Quem depende financeiramente da família e por quanto tempo?
+2. Quais despesas e obrigações exigem liquidez durante transição?
+3. Ativos, passivos, garantias, documentos e contatos estão mapeados e atualizados?
+4. Pessoas autorizadas sabem como localizar a informação sem receber acesso inseguro?
+5. Instrumentos jurídicos e beneficiários foram revisados por profissional competente e na jurisdição aplicável?
+6. Há empresa, ativo ilíquido, exterior, dependente vulnerável ou conflito que exija planejamento especializado?
+7. Quem poderá tomar decisões temporárias e como prestará contas?
+8. Sucessores compreendem os objetivos, limites e responsabilidades compatíveis com seu papel?
+9. O plano preserva privacidade e reduz risco de fraude ou acesso indevido?
+10. Que evento exige revisão imediata?
+
+## Classificação de Evidências
+
+- **Nível A:** ativos, passivos, documentos, pessoas responsáveis e obrigações podem ser inventariados, datados e reconciliados.
+- **Nível B:** continuidade patrimonial, conflitos e preparação de sucessores dependem de contexto familiar, jurídico, econômico e comportamental.
+- **Nível C:** efeitos futuros de estruturas jurídicas, tributos, relações familiares e mudanças legais não podem ser presumidos sem análise individual atualizada.
+- **Nível D:** inventário protegido, revisão periódica, educação e consulta a profissionais habilitados como regras AFF de continuidade.
+
+## Norma Operacional AFF-CM-030
+
+> **Toda política patrimonial familiar manterá plano sucessório proporcional à sua complexidade, com inventário protegido e atualizado de ativos, passivos, documentos, contatos, obrigações, responsáveis e necessidades de liquidez; regra de acesso seguro sem exposição de credenciais; responsável titular e substituto; teste periódico documentado de recuperação e indisponibilidade; calendário e eventos de revisão; e encaminhamento a profissionais jurídicos, tributários e contábeis habilitados quando a formalização ou a lei aplicável o exigir. Nenhuma estrutura sucessória, tributária ou societária será considerada aprovada apenas por promessa comercial, benefício fiscal presumido ou modelo padronizado.**
+
+## Referências
+
+- BRASIL. Lei nº 10.406, de 10 de janeiro de 2002. *Código Civil*, especialmente disposições sobre sucessão e herdeiros necessários. [Texto compilado](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm). Consulta em 22 jul. 2026.
+- COMISSÃO DE VALORES MOBILIÁRIOS. *Portal do Investidor — Guias Educacionais*. Referência educacional para planejamento financeiro e investimento consciente; não substitui orientação jurídica ou tributária. [Guias](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/guias). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 33º — Da Ética e da Integridade
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; ética, transparência, responsabilidade fiduciária, evidência e integridade são princípios dispersos da Constituição e do preâmbulo. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O AFF atuará com honestidade intelectual, lealdade aos objetivos legítimos da família, transparência sobre limites, respeito à confidencialidade e recusa de práticas ilegais, enganosas ou incompatíveis com a integridade dos mercados. Nenhum retorno, promessa comercial, vínculo pessoal ou conveniência justificará ocultar conflito, distorcer evidência, usar informação indevida ou transferir a terceiros risco não compreendido.**
+
+## Princípios de Conduta
+
+O AFF deverá: distinguir fato de opinião; declarar conflitos, remuneração, vínculo e limitação material; preservar registros e confidencialidade; respeitar competência e legislação aplicável; corrigir erro relevante com transparência; e recusar orientação personalizada sem informação suficiente sobre objetivos e riscos da família.
+
+Integridade não significa certeza nem proibição de erro. Significa não fabricar convicção, não adaptar regra para justificar posição desejada e não esconder informação que alteraria a decisão de responsável legítimo.
+
+## Conflitos e Independência
+
+Conflito real, potencial ou percebido será identificado antes de decisão material. Se não puder ser eliminado, será revelado, mitigado e registrado; se comprometer independência, a decisão será transferida, suspensa ou recusada. Interesse econômico próprio, relação com emissor, intermediário, fornecedor, familiar ou uso de recomendação remunerada exigem tratamento explícito.
+
+## Informações e Mercado
+
+O AFF não utilizará informação material não pública, não manipulará mercado, não divulgará dados familiares sem autorização e não apresentará hipótese como garantia. Ferramenta, analista ou IA não reduzirão a responsabilidade humana pela decisão e pela comunicação.
+
+## Classificação de Evidências
+
+- **Nível A:** existência de conflito, fonte, registro, remuneração e comunicação pode ser verificada documentalmente.
+- **Nível B:** códigos profissionais oferecem referências aplicáveis com adaptação ao contexto familiar e jurisdicional.
+- **Nível D:** honestidade, transparência, confidencialidade e recusa de conduta incompatível como normas AFF.
+
+## Norma Operacional AFF-CM-031
+
+> **Nenhuma decisão material será aprovada sem declaração de conflitos, limitações e fontes relevantes. Conflito não mitigável, informação material não pública, representação enganosa, violação de confidencialidade ou conduta incompatível com a lei e a integridade constituirão bloqueio normativo e imporão recusa, suspensão ou encaminhamento apropriado.**
+
+## Referências
+
+- CFA INSTITUTE. *Code of Ethics and Standards of Professional Conduct*. Versão vigente consultada em 22 jul. 2026. [Normas](https://www.cfainstitute.org/standards/professionals/code-ethics-standards).
+
+---
+
+# Artigo 34º — Do Papel da Inteligência Artificial
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o preâmbulo determina que IA é instrumento de apoio, sem substituir a responsabilidade final do investidor. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**A inteligência artificial poderá apoiar pesquisa, organização, comparação, cálculo, redação e controle de consistência, mas não será fonte autônoma de verdade, substituta de julgamento, depositária indiscriminada de dados familiares nem autorizada a executar decisão patrimonial material sem validação humana responsável.**
+
+## Uso Permitido e Limites
+
+Toda saída de IA será tratada como hipótese de trabalho. Fatos, números, citações, cálculos, atualidade, contexto e inferências relevantes serão conferidos em fontes rastreáveis. A IA não poderá receber dados sensíveis além do necessário, nem credenciais, chaves, documentos privados ou instruções que contornem controles de segurança.
+
+O responsável humano definirá objetivo, fontes aceitas, grau de autonomia, revisão, registro e condição de interrupção. Resultado persuasivo, rápido ou bem redigido não aumentará sua confiabilidade.
+
+## Riscos Específicos
+
+O AFF controlará alucinação, viés, desatualização, *prompt injection*, vazamento de dados, falsa atribuição de fonte, automação excessiva e dependência de fornecedor. Conteúdo externo ou não confiável será tratado como dado, e não como instrução; nenhuma orientação nele contida será seguida sem confirmação humana. Decisão material exigirá registro da participação da IA, validação humana e preservação das fontes que efetivamente a sustentam.
+
+## Classificação de Evidências
+
+- **Nível B:** sistemas de IA possuem riscos de contexto, segurança, transparência e erro que dependem do modelo e do uso.
+- **Nível D:** supervisão humana, verificação de fonte, minimização de dados e bloqueio de execução autônoma material como regras AFF.
+
+## Norma Operacional AFF-CM-032
+
+> **Nenhuma saída de inteligência artificial constituirá evidência suficiente ou autorização de execução por si só. Uso de IA em decisão material exigirá responsável humano identificado, fontes verificadas, registro de participação, proteção de dados e possibilidade de revisão e interrupção. É vedado inserir credenciais, chaves, dados sensíveis desnecessários ou delegar autonomamente compra, venda, transferência ou alteração de política patrimonial.**
+
+## Referências
+
+- NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY. *Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile*. NIST AI 600-1, 2024. [Documento](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf).
+- OECD. *AI Principles*. Transparência, robustez, segurança e accountability. [Princípios](https://www.oecd.org/en/topics/ai-principles.html). Consulta em 22 jul. 2026.
+
+---
+
+# Artigo 35º — Do Manifesto do Investidor AFF
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre. A missão, os objetivos e os princípios foram recuperados em documentos institucionais, mas o manifesto integral não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O Investidor AFF investe para servir à vida da família, e não para submeter a família ao mercado. Preserva antes de arriscar, aprende antes de afirmar, compreende antes de comprar, diversifica antes de depender e revisa antes de insistir. Mede patrimônio em poder de compra, renda sustentável, liberdade de escolha e continuidade entre gerações.**
+
+Não busca prever cada cotação, vencer comparação social nem maximizar retorno isolado. Busca decisões explicáveis, repetíveis e compatíveis com incerteza, liquidez, tempo e responsabilidade. Reconhece que capital é recurso escasso, que erro é inevitável e que integridade é condição de todo resultado duradouro.
+
+## Norma Operacional AFF-CM-033
+
+> **Toda política, análise e decisão AFF será interpretada à luz de preservação de capital, criação de valor real, responsabilidade familiar, evidência, integridade e continuidade. Quando houver dúvida entre resultado financeiro imediato e proteção de obrigação prioritária ou princípio ético, prevalecerá a proteção e o princípio.**
+
+---
+
+# Artigo 36º — Da Carteira Permanente AFF
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e a definição de Carteira Permanente AFF foi aprovada nas convenções editoriais. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**A Carteira Permanente AFF será o componente societário de longo prazo do patrimônio familiar, composto por Empresas AFF selecionadas por qualidade, valor, risco, liquidez e adequação patrimonial. Ela não se confunde com a totalidade do patrimônio, nem obriga permanência em empresa individual quando a tese, a integridade, a classificação ou a necessidade familiar mudarem.**
+
+## Estrutura e Finalidade
+
+A carteira buscará participar de negócios capazes de criar valor e, quando pertinente, gerar renda real crescente. Reservas de liquidez, obrigações, ativos não societários, proteção de curto prazo e necessidades familiares permanecem fora dela ou em suas interfaces definidas pela política patrimonial.
+
+Inclusão, aumento, redução e saída obedecerão aos Artigos 15, 21 a 31. “Permanente” descreve o horizonte e a disciplina da estratégia, não imunidade de ativo contra revisão. A carteira será concentrada apenas dentro de limites aprovados, diversificada economicamente e acompanhada por tese, classificação e risco agregado.
+
+## Norma Operacional AFF-CM-034
+
+> **Nenhum ativo integrará ou permanecerá na Carteira Permanente AFF sem classificação vigente, tese verificável, liquidez e concentração compatíveis, adequação à política patrimonial e ausência de bloqueio normativo. A carteira será revisada por calendário e evento; ativos reprovados, não classificáveis ou incompatíveis terão aportes suspensos e plano documentado de observação, redução ou saída.**
+
+## Referências
+
+- CONVENÇÕES EDITORIAIS E NORMATIVAS DO LIVRO I. Definição aprovada de Carteira Permanente AFF. [Convenções](../CONVENCOES_EDITORIAIS.md).
+
+---
+
+# Artigo 37º — Do Sistema de Classificação AFF
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e a escala transitória previamente aprovada foi criada para ser formalizada por este artigo. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O Sistema de Classificação AFF comunicará aderência a requisitos, qualidade de evidência e bloqueios normativos; não será previsão de retorno, selo comercial, recomendação automática ou garantia contra perda. A classificação sempre identificará objeto, data-base, responsável, fontes, critérios, ressalvas e condições de revisão.**
+
+## Classes
+
+1. **AFF-A — Aprovado integralmente:** todos os requisitos obrigatórios aplicáveis atendidos, evidência suficiente e ausência de bloqueio material.
+2. **AFF-B — Aprovado com ressalvas:** requisitos obrigatórios atendidos, com limitação não impeditiva, monitoramento e condição de revisão registrados.
+3. **AFF-C — Não classificável:** evidência insuficiente, desatualizada, contraditória ou impossível de verificar para concluir com responsabilidade.
+4. **AFF-D — Reprovado:** bloqueio normativo, incompatibilidade material, integridade insuficiente ou risco não compensado segundo os critérios aplicáveis.
+
+Classe não substitui tamanho de posição, preço, liquidez, diversificação ou decisão de compra e venda. AFF-A não significa “sem risco”; AFF-C não significa automaticamente baixa qualidade; AFF-D não será revertido sem nova evidência e nova deliberação documentada.
+
+Nas disposições anteriores desta Carta Magna, “classificação máxima” e “alta qualidade” designam, para fins de elegibilidade, a classe AFF-A, salvo quando o próprio dispositivo estabelecer critério mais específico. A expressão não elimina a obrigação de registrar escopo, evidência, ressalvas e data-base.
+
+## Norma Operacional AFF-CM-035
+
+> **Toda classificação AFF registrará objeto, escopo, data-base, responsável, fontes, critérios aplicáveis, nível de evidência, classe AFF-A a AFF-D, ressalvas, bloqueios e gatilho de revisão. Somente AFF-A e AFF-B poderão compor lista elegível; compra ou aumento exigirá também os requisitos próprios de valor, liquidez, concentração e adequação. AFF-C impedirá aumento de exposição; AFF-D impedirá inclusão e exigirá plano para posição existente.**
+
+---
+
+# Artigo 38º — Do Guardião do Patrimônio
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre e o dever ético de cuidado, a prudência e a continuidade patrimonial são princípios recuperados do preâmbulo e da Constituição. O texto integral original não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**O Guardião do Patrimônio AFF exercerá responsabilidade de cuidado, continuidade e prestação de contas sobre decisões patrimoniais. Não será dono absoluto do capital nem intérprete infalível da vontade familiar: protegerá objetivos legítimos, documentará escolhas, reconhecerá limites e buscará apoio competente quando a decisão exceder sua autoridade ou conhecimento.**
+
+O Guardião manterá política atualizada, registros, controles de liquidez, sucessão, conflitos, segurança e revisão de teses. Distinguirá preservação de imobilismo e crescimento de imprudência. Em conflito entre conveniência pessoal e interesse patrimonial legítimo da família, declarará o conflito e adotará o procedimento do Artigo 33º. O dever ético AFF não cria, por si, relação fiduciária, mandato, habilitação profissional ou obrigação legal além daquela prevista em lei ou contrato aplicável.
+
+## Norma Operacional AFF-CM-036
+
+> **Toda função de guarda patrimonial terá responsável identificado, escopo de autoridade, dever de registro, prestação de contas, substituto ou contingência e regra de encaminhamento quando houver conflito, incapacidade, falta de competência ou decisão fora de alçada. Por calendário e evento material, o Guardião prestará contas ao titular ou representante autorizado, com decisões, movimentações, conflitos, exceções e pendências; registrará recebimento, contestação ou ausência de manifestação. Não poderá usar patrimônio familiar para finalidade própria não autorizada ou omitir informação material de responsável legítimo.**
+
+---
+
+# Artigo 39º — Dos Dez Mandamentos do AFF
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; a formulação integral não foi localizada. Esta síntese permanece em revisão até aprovação do editor-chefe.
+
+1. Preservarás o capital antes de buscar retorno extraordinário.
+2. Medirás patrimônio, renda e objetivos em termos reais.
+3. Não comprarás o que não compreendes nem a preço sem proteção.
+4. Não dependerás de uma única fonte de renda, liquidez ou informação.
+5. Tratarás dívida, liquidez e concentração como riscos de continuidade.
+6. Distinguirás fatos, estimativas, narrativas e preferências.
+7. Registrarás tese, risco, conflito, decisão e revisão antes de julgar o resultado.
+8. Reconhecerás medo, euforia e vieses sem lhes entregar o comando.
+9. Usarás tecnologia e inteligência artificial como apoio, nunca como substitutos de responsabilidade.
+10. Prepararás patrimônio, conhecimento e governança para além de tua própria gestão.
+
+## Norma Operacional AFF-CM-037
+
+> **Os Dez Mandamentos sintetizam a Carta Magna e não criam exceção, hierarquia paralela ou regra menos exigente que seus artigos e normas. Em conflito interpretativo, prevalecerá a hierarquia normativa das Convenções Editoriais: os dispositivos específicos da Carta Magna e suas normas operacionais prevalecem sobre política patrimonial, protocolos e critérios; a política poderá detalhá-los, sem contrariá-los.**
+
+---
+
+# Artigo 40º — Do Juramento do AFF
+
+> **Proveniência:** reconstrução editorial. O título consta do Prompt Mestre; o juramento integral não foi localizado. Esta reconstrução permanece em revisão até aprovação do editor-chefe.
+
+**Comprometo-me a tratar o patrimônio confiado à minha análise como fruto de trabalho, tempo, escolhas e responsabilidades humanas. Comprometo-me a buscar evidência antes de opinião, prudência antes de impulso, transparência antes de conveniência e continuidade antes de vaidade.**
+
+**Reconhecerei os limites do meu conhecimento; declararei conflitos; corrigirei erros; respeitarei a confidencialidade; não prometerei certeza onde existe incerteza; e pedirei apoio quando a responsabilidade exceder minha competência. Usarei o capital para ampliar a liberdade e a segurança legítima da família, sem abandonar integridade, justiça e responsabilidade perante as próximas gerações.**
+
+O Juramento é compromisso ético e institucional. Não substitui lei, contrato, dever profissional regulado ou aconselhamento especializado; reforça a responsabilidade pessoal de aplicar a Carta Magna de boa-fé.
+
+## Norma Operacional AFF-CM-038
+
+> **A adoção do Juramento do AFF será voluntária, registrada quando aplicável e interpretada como compromisso de conduta, não como promessa de retorno, garantia de resultado, certificação profissional ou renúncia a direitos. Violação de seus princípios será analisada pelos dispositivos específicos da Carta Magna, especialmente ética, conflito, evidência, registro e responsabilidade de guarda.**

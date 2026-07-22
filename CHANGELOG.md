@@ -24,6 +24,13 @@
 - Concluída a busca documental pelos originais dos Artigos 21º a 26º, sem localização dos textos integrais, com registro auditável das fontes e dos 472 documentos Word examinados.
 - Reconstruídos, para revisão editorial, os Artigos 21º a 26º: Crescimento Sustentável, Análise Baseada em Evidências, Política de Endividamento, Preservação do Poder de Compra, Compra Inteligente e Venda Inteligente.
 - Incluídas, em estado de revisão, as normas operacionais `AFF-CM-019` a `AFF-CM-024`.
+- Concluída a busca documental pelos originais dos Artigos 27º a 32º, sem localização dos textos integrais, com registro auditável das fontes e dos 472 documentos Word examinados.
+- Reconstruídos, para revisão editorial, os Artigos 27º a 32º: Liquidez, Diversificação Inteligente, Psicologia do Investidor, Vieses Cognitivos, Revisão de Teses e Sucessão Patrimonial.
+- Incluídas, em estado de revisão, as normas operacionais `AFF-CM-025` a `AFF-CM-030`.
+- Concluída a busca documental pelos originais dos Artigos 33º a 40º, sem localização dos textos integrais, com registro auditável das fontes e dos 472 documentos Word examinados.
+- Reconstruídos, para revisão editorial, os Artigos 33º a 40º: Ética e Integridade, Papel da Inteligência Artificial, Manifesto do Investidor AFF, Carteira Permanente AFF, Sistema de Classificação AFF, Guardião do Patrimônio, Dez Mandamentos do AFF e Juramento do AFF.
+- Incluídas, em estado de revisão, as normas operacionais `AFF-CM-031` a `AFF-CM-038`.
+- Substituída a escala classificatória transitória pelo Sistema de Classificação AFF formalizado no Artigo 37º.
 
 ### Controle editorial
 
